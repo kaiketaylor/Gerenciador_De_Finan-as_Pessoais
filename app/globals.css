@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-background text-text;
+}
+
+.container {
+  @apply max-w-6xl mx-auto px-4;
+}
+.card {
+  @apply bg-card rounded-2xl border border-border shadow-sm;
+}
+.btn {
+  @apply inline-flex items-center gap-2 rounded-xl border border-border px-4 py-2 bg-panel hover:bg-card transition;
+}
+.btn-primary { @apply bg-primary text-black hover:opacity-90; }
+.input {
+  @apply bg-panel border border-border rounded-xl px-3 py-2 w-full;
+}
+.table {
+  @apply w-full;
+}
+th, td { @apply px-3 py-2 text-sm; }
+thead th { @apply text-muted font-medium; }
+tbody tr { @apply border-t border-border; }

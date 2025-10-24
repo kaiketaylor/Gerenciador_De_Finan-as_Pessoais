@@ -1,0 +1,28 @@
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# testing
+coverage
+
+# next.js
+.next/
+out/
+
+# env
+.env*
+!.env.example
+
+# logs
+logs
+*.log
+
+# editor
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# misc
+.DS_Store
+*.local
