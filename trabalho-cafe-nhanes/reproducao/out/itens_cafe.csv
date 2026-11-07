@@ -1,0 +1,358 @@
+ID,SEQN (NHANES),Dia do recordatório,Dia da semana,Horário,Período,Ocasião,Código USDA (FNDDS),Descrição (FNDDS),Bebida,Volume (mL ≈ g),Xícaras (240 mL),Cafeína (mg)
+4,130449,1,Domingo,09:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,600.0,2.5,240.0
+5,130473,1,Sábado,12:00,Tarde,Almoço,92102400,"Iced Coffee, brewed",Café coado gelado,480.0,2.0,147.0
+6,130484,1,Sexta,08:00,Manhã,Café da manhã,92101904,"Coffee, Latte, flavored",Café latte aromatizado,620.0,2.583,215.0
+6,130484,1,Sexta,16:00,Tarde,Jantar,92101904,"Coffee, Latte, flavored",Café latte aromatizado,496.0,2.067,172.0
+6,130484,2,Quarta,07:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+8,130546,1,Terça,10:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,960.0,4.0,384.0
+8,130546,1,Terça,12:00,Tarde,Bebida avulsa,92101000,"Coffee, brewed",Café coado,480.0,2.0,192.0
+8,130546,1,Terça,13:00,Tarde,Bebida avulsa,92101000,"Coffee, brewed",Café coado,480.0,2.0,192.0
+8,130546,1,Terça,16:00,Tarde,Bebida avulsa,92101000,"Coffee, brewed",Café coado,480.0,2.0,192.0
+8,130546,1,Terça,22:00,Noite,Bebida avulsa,92101000,"Coffee, brewed",Café coado,480.0,2.0,192.0
+8,130546,2,Domingo,08:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,960.0,4.0,384.0
+12,130697,1,Quinta,08:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,525.0,2.188,161.0
+12,130697,2,Sexta,09:30,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,480.0,2.0,147.0
+13,130707,1,Sábado,09:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+13,130707,1,Sábado,09:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+14,130729,2,Terça,19:00,Noite,Jantar,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+16,130800,1,Quarta,14:30,Tarde,Almoço,92101820,"Coffee, macchiato, sweetened",Macchiato adoçado,186.0,0.775,253.0
+20,130951,2,Domingo,12:00,Tarde,Bebida avulsa,92102400,"Iced Coffee, brewed",Café coado gelado,240.0,1.0,73.0
+21,130961,1,Domingo,08:45,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+21,130961,1,Domingo,16:30,Tarde,Lanche,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+21,130961,2,Quinta,09:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+21,130961,2,Quinta,15:00,Tarde,Lanche,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+21,130961,2,Quinta,19:00,Noite,Bebida avulsa,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+27,131094,2,Segunda,09:30,Manhã,Lanche,92161000,"Coffee, Cappuccino",Cappuccino,240.0,1.0,87.0
+31,131305,1,Quarta,11:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+32,131309,1,Terça,10:00,Manhã,Lanche,92101000,"Coffee, brewed",Café coado,315.0,1.312,126.0
+32,131309,1,Terça,18:00,Noite,Lanche,92101000,"Coffee, brewed",Café coado,315.0,1.312,126.0
+32,131309,2,Domingo,08:00,Manhã,Bebida avulsa,92102400,"Iced Coffee, brewed",Café coado gelado,435.0,1.812,133.0
+32,131309,2,Domingo,11:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,195.0,0.812,78.0
+33,131316,1,Segunda,10:30,Manhã,Café da manhã,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),155.0,0.646,43.0
+33,131316,2,Quinta,10:00,Manhã,Café da manhã,92171010,"Coffee, bottled/canned, light",Café pronto light (garrafa/lata),105.0,0.438,25.0
+34,131323,1,Quinta,08:00,Manhã,Lanche,92101500,"Coffee, brewed, blend of regular and decaffeinated","Café coado, mistura comum e descafeinado",300.0,1.25,62.0
+34,131323,2,Domingo,09:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+36,131408,1,Segunda,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+36,131408,2,Quinta,08:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,300.0,1.25,92.0
+38,131420,2,Segunda,10:30,Manhã,Café da manhã,92102503,"Coffee, Iced Latte, flavored",Latte gelado aromatizado,496.0,2.067,177.0
+39,131421,1,Segunda,13:00,Tarde,Bebida avulsa,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),424.7,1.77,119.0
+40,131433,1,Segunda,10:00,Manhã,Almoço,92111010,"Coffee, brewed, decaffeinated",Café coado descafeinado,480.0,2.0,5.0
+40,131433,2,Quinta,11:00,Manhã,Almoço,92114000,"Coffee, instant, decaffeinated, reconstituted",Café solúvel descafeinado,480.0,2.0,5.0
+45,131501,1,Terça,07:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,420.0,1.75,168.0
+45,131501,2,Quarta,07:45,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+48,131588,1,Sexta,06:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,720.0,3.0,288.0
+48,131588,1,Sexta,20:00,Noite,Bebida avulsa,92101000,"Coffee, brewed",Café coado,15.0,0.062,6.0
+48,131588,2,Sábado,07:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+52,131699,1,Terça,09:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,195.0,0.812,78.0
+52,131699,1,Terça,10:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,195.0,0.812,78.0
+52,131699,2,Quarta,09:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+56,131786,1,Quinta,11:00,Manhã,Café da manhã,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,120.0,0.5,32.0
+60,131826,1,Domingo,09:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+60,131826,2,Terça,07:15,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+70,131972,1,Quarta,11:30,Manhã,Café da manhã,92101610,"Coffee, espresso",Café espresso,600.0,2.5,1272.0
+70,131972,2,Quinta,09:30,Manhã,Café da manhã,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),248.0,1.033,69.0
+72,132064,1,Quarta,07:00,Manhã,Consumo prolongado,92101000,"Coffee, brewed",Café coado,1200.0,5.0,480.0
+72,132064,2,Terça,07:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,960.0,4.0,384.0
+76,132165,1,Terça,10:00,Manhã,Bebida avulsa,92101904,"Coffee, Latte, flavored",Café latte aromatizado,263.5,1.098,91.0
+76,132165,2,Segunda,11:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+80,132188,1,Domingo,07:00,Manhã,Café da manhã,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,90.0,0.375,24.0
+80,132188,2,Segunda,07:30,Manhã,Café da manhã,92130021,"Coffee, decaffeinated, pre-sweetened with sugar",Café descafeinado adoçado,124.0,0.517,1.0
+81,132206,2,Domingo,07:00,Manhã,Lanche,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+85,132252,1,Terça,09:15,Manhã,Café da manhã,92101610,"Coffee, espresso",Café espresso,120.0,0.5,254.0
+85,132252,2,Quarta,09:00,Manhã,Café da manhã,92101610,"Coffee, espresso",Café espresso,60.0,0.25,127.0
+86,132260,1,Segunda,06:30,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,960.0,4.0,384.0
+86,132260,2,Domingo,08:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+89,132309,1,Quinta,06:30,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,90.0,0.375,28.0
+89,132309,2,Domingo,06:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,90.0,0.375,36.0
+90,132316,2,Quarta,11:00,Manhã,Café da manhã,92101900,"Coffee, Latte",Café latte,120.0,0.5,43.0
+91,132321,1,Quarta,07:00,Manhã,Café da manhã,92102401,"Iced Coffee, brewed, decaffeinated",Café coado gelado descafeinado,240.0,1.0,2.0
+91,132321,2,Sábado,10:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,345.0,1.438,105.0
+92,132341,1,Domingo,10:30,Manhã,Café da manhã,92102505,"Coffee, Iced Latte, with non-dairy milk, flavored","Latte gelado com bebida vegetal, aromatizado",496.0,2.067,176.0
+92,132341,2,Segunda,11:00,Manhã,Café da manhã,92102505,"Coffee, Iced Latte, with non-dairy milk, flavored","Latte gelado com bebida vegetal, aromatizado",496.0,2.067,176.0
+93,132351,1,Segunda,11:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,255.0,1.062,78.0
+93,132351,2,Quarta,10:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+99,132461,1,Segunda,09:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+99,132461,2,Quinta,10:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+102,132554,1,Domingo,09:00,Manhã,Bebida avulsa,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,240.0,1.0,63.0
+102,132554,2,Quarta,08:00,Manhã,Café da manhã,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,180.0,0.75,47.0
+103,132631,1,Quarta,05:30,Manhã,Lanche,92101000,"Coffee, brewed",Café coado,480.0,2.0,192.0
+103,132631,2,Terça,04:45,Noite,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+107,132706,1,Quarta,07:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+107,132706,1,Quarta,11:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+111,132826,1,Segunda,07:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+112,132872,1,Terça,12:00,Tarde,Almoço,92101610,"Coffee, espresso",Café espresso,30.0,0.125,64.0
+112,132872,2,Domingo,15:00,Tarde,Lanche,92101610,"Coffee, espresso",Café espresso,60.0,0.25,127.0
+114,132950,1,Domingo,14:00,Tarde,Café da manhã,92101000,"Coffee, brewed",Café coado,60.0,0.25,24.0
+114,132950,2,Terça,14:00,Tarde,Café da manhã,92161000,"Coffee, Cappuccino",Cappuccino,225.0,0.938,81.0
+116,132978,1,Quarta,14:00,Tarde,Bebida avulsa,92102502,"Coffee, Iced Latte, with non-dairy milk",Latte gelado com bebida vegetal,480.0,2.0,177.0
+116,132978,2,Terça,14:00,Tarde,Bebida avulsa,92102502,"Coffee, Iced Latte, with non-dairy milk",Latte gelado com bebida vegetal,210.0,0.875,77.0
+119,133013,1,Terça,17:30,Tarde,Bebida avulsa,92102400,"Iced Coffee, brewed",Café coado gelado,525.0,2.188,161.0
+119,133013,2,Domingo,12:00,Tarde,Brunch,92101000,"Coffee, brewed",Café coado,60.0,0.25,24.0
+121,133040,1,Terça,07:30,Manhã,Café da manhã,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),108.5,0.452,30.0
+122,133044,1,Segunda,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,217.8,0.908,87.0
+122,133044,2,Quinta,02:00,Noite,Bebida avulsa,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+125,133134,1,Quinta,09:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,345.0,1.438,138.0
+125,133134,1,Quinta,12:00,Tarde,Bebida avulsa,92101000,"Coffee, brewed",Café coado,345.0,1.438,138.0
+125,133134,2,Quarta,09:00,Manhã,Café da manhã,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),465.0,1.938,130.0
+125,133134,2,Quarta,12:00,Tarde,Almoço,92102503,"Coffee, Iced Latte, flavored",Latte gelado aromatizado,372.0,1.55,133.0
+126,133150,2,Quarta,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,421.2,1.755,168.0
+127,133153,1,Sexta,05:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+127,133153,2,Quinta,05:30,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,360.0,1.5,110.0
+129,133289,1,Quarta,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+132,133373,2,Sábado,15:30,Tarde,Lanche,92102401,"Iced Coffee, brewed, decaffeinated",Café coado gelado descafeinado,360.0,1.5,3.0
+134,133481,1,Quinta,09:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+137,133535,1,Domingo,08:00,Manhã,Café da manhã,92101920,Frozen coffee drink,Café batido com gelo,294.5,1.227,97.0
+140,133646,1,Terça,12:30,Tarde,Almoço,92102400,"Iced Coffee, brewed",Café coado gelado,480.0,2.0,147.0
+144,133772,1,Segunda,18:00,Noite,Jantar,92101000,"Coffee, brewed",Café coado,270.0,1.125,108.0
+144,133772,2,Quarta,12:30,Tarde,Almoço,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+144,133772,2,Quarta,19:00,Noite,Jantar,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+144,133772,2,Quarta,22:00,Noite,Lanche,92101000,"Coffee, brewed",Café coado,195.0,0.812,78.0
+147,133856,1,Sexta,11:00,Manhã,Café da manhã,92111010,"Coffee, brewed, decaffeinated",Café coado descafeinado,360.0,1.5,4.0
+147,133856,2,Sábado,09:15,Manhã,Café da manhã,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,240.0,1.0,63.0
+148,133911,1,Terça,08:00,Manhã,Café da manhã,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,195.0,0.812,51.0
+148,133911,2,Quarta,08:10,Manhã,Café da manhã,92130010,"Coffee, pre-lightened",Café com leite pronto,195.0,0.812,50.0
+149,133937,1,Quinta,13:00,Tarde,Bebida avulsa,92102400,"Iced Coffee, brewed",Café coado gelado,278.4,1.16,85.0
+149,133937,2,Terça,11:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,195.0,0.812,60.0
+153,134002,1,Quarta,08:30,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,360.0,1.5,110.0
+157,134115,1,Domingo,11:00,Manhã,Almoço,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+157,134115,2,Quarta,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+161,134184,1,Segunda,08:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,240.0,1.0,73.0
+162,134197,1,Terça,08:30,Manhã,Bebida avulsa,92101920,Frozen coffee drink,Café batido com gelo,294.5,1.227,97.0
+163,134215,2,Quarta,09:00,Manhã,Bebida avulsa,92102400,"Iced Coffee, brewed",Café coado gelado,360.0,1.5,110.0
+164,134231,1,Quinta,05:30,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,1020.0,4.25,408.0
+164,134231,2,Quarta,07:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,420.0,1.75,168.0
+164,134231,2,Quarta,10:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+164,134231,2,Quarta,21:00,Noite,Lanche,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+165,134268,1,Terça,09:00,Manhã,Café da manhã,92101904,"Coffee, Latte, flavored",Café latte aromatizado,496.0,2.067,172.0
+168,134464,2,Sexta,14:00,Tarde,Lanche,92101920,Frozen coffee drink,Café batido com gelo,620.0,2.583,204.0
+175,134579,1,Quarta,05:30,Manhã,Bebida avulsa,92101610,"Coffee, espresso",Café espresso,60.0,0.25,127.0
+175,134579,1,Quarta,07:15,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,480.0,2.0,192.0
+175,134579,1,Quarta,14:15,Tarde,Bebida avulsa,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+175,134579,2,Quinta,05:45,Manhã,Bebida avulsa,92101610,"Coffee, espresso",Café espresso,60.0,0.25,127.0
+175,134579,2,Quinta,05:45,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,210.0,0.875,84.0
+175,134579,2,Quinta,09:30,Manhã,Café da manhã,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),248.0,1.033,69.0
+175,134579,2,Quinta,15:30,Tarde,Bebida avulsa,92161000,"Coffee, Cappuccino",Cappuccino,210.0,0.875,76.0
+177,134591,1,Terça,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+177,134591,2,Quarta,09:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,600.0,2.5,240.0
+180,134606,2,Sábado,14:00,Tarde,Bebida avulsa,92101000,"Coffee, brewed",Café coado,480.0,2.0,192.0
+183,134651,1,Quinta,10:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+183,134651,2,Quarta,09:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+186,134696,1,Domingo,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,960.0,4.0,384.0
+186,134696,2,Terça,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,1200.0,5.0,480.0
+187,134737,2,Quinta,08:00,Manhã,Café da manhã,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,255.0,1.062,67.0
+189,134757,2,Domingo,07:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,120.0,0.5,48.0
+191,134781,1,Domingo,10:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+193,134935,2,Quarta,11:00,Manhã,Bebida avulsa,92102400,"Iced Coffee, brewed",Café coado gelado,480.0,2.0,147.0
+196,134989,1,Quinta,08:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+196,134989,2,Quinta,12:15,Tarde,Lanche,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,240.0,1.0,63.0
+199,135048,2,Quarta,11:00,Manhã,Almoço,92101000,"Coffee, brewed",Café coado,120.0,0.5,48.0
+200,135108,1,Quarta,08:30,Manhã,Café da manhã,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),449.5,1.873,126.0
+202,135170,1,Terça,10:00,Manhã,Bebida avulsa,92101900,"Coffee, Latte",Café latte,240.0,1.0,86.0
+202,135170,2,Sexta,09:15,Manhã,Café da manhã,92101900,"Coffee, Latte",Café latte,240.0,1.0,86.0
+203,135194,1,Quarta,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+203,135194,2,Domingo,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,120.0,0.5,48.0
+205,135369,1,Quinta,06:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+205,135369,2,Quinta,05:45,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+207,135381,2,Segunda,09:45,Manhã,Café da manhã,92102030,"Frozen mocha coffee drink, with whipped cream",Mocha batido com gelo e chantili,580.5,2.419,185.0
+208,135388,1,Sexta,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+208,135388,2,Quarta,08:00,Manhã,Café da manhã,92101904,"Coffee, Latte, flavored",Café latte aromatizado,496.0,2.067,172.0
+212,135422,1,Quarta,11:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+213,135439,1,Terça,11:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,360.0,1.5,110.0
+213,135439,2,Quinta,12:15,Tarde,Almoço,92101000,"Coffee, brewed",Café coado,480.0,2.0,192.0
+218,135556,1,Quarta,12:00,Tarde,Almoço,92171010,"Coffee, bottled/canned, light",Café pronto light (garrafa/lata),480.0,2.0,115.0
+218,135556,2,Segunda,10:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+222,135653,1,Segunda,09:30,Manhã,Consumo prolongado,92102400,"Iced Coffee, brewed",Café coado gelado,960.0,4.0,294.0
+222,135653,2,Domingo,09:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,435.0,1.812,174.0
+225,135733,2,Domingo,11:50,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,720.0,3.0,220.0
+227,135885,1,Domingo,06:00,Manhã,Café da manhã,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,480.0,2.0,126.0
+229,135902,1,Domingo,11:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,300.0,1.25,92.0
+229,135902,2,Segunda,17:00,Tarde,Bebida avulsa,92102400,"Iced Coffee, brewed",Café coado gelado,180.0,0.75,55.0
+233,135998,1,Segunda,10:30,Manhã,Brunch,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+233,135998,2,Quinta,12:00,Tarde,Almoço,92101925,"Frozen coffee drink, with whipped cream",Café batido com gelo e chantili,496.0,2.067,154.0
+241,136146,1,Terça,10:30,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+241,136146,2,Quarta,12:00,Tarde,Café da manhã,92101000,"Coffee, brewed",Café coado,195.0,0.812,78.0
+243,136180,1,Quarta,12:00,Tarde,Café da manhã,92101904,"Coffee, Latte, flavored",Café latte aromatizado,542.5,2.26,188.0
+247,136287,1,Quinta,11:00,Manhã,Café da manhã,92111010,"Coffee, brewed, decaffeinated",Café coado descafeinado,720.0,3.0,7.0
+248,136409,2,Quarta,08:00,Manhã,Café da manhã,92111010,"Coffee, brewed, decaffeinated",Café coado descafeinado,195.0,0.812,2.0
+249,136419,1,Quarta,09:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,345.0,1.438,105.0
+251,136449,1,Quarta,11:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,315.0,1.312,96.0
+251,136449,2,Terça,12:30,Tarde,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,240.0,1.0,73.0
+254,136474,2,Terça,05:30,Manhã,Café da manhã,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),434.0,1.808,122.0
+259,136534,1,Sábado,07:05,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,150.0,0.625,60.0
+259,136534,2,Terça,06:45,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,195.0,0.812,78.0
+260,136537,2,Quinta,04:00,Noite,Café da manhã,92101000,"Coffee, brewed",Café coado,720.0,3.0,288.0
+260,136537,2,Quinta,08:00,Manhã,Bebida avulsa,92101820,"Coffee, macchiato, sweetened",Macchiato adoçado,496.0,2.067,674.0
+262,136552,2,Sexta,14:00,Tarde,Lanche,92101925,"Frozen coffee drink, with whipped cream",Café batido com gelo e chantili,496.0,2.067,154.0
+265,136641,1,Sexta,13:00,Tarde,Lanche,92101904,"Coffee, Latte, flavored",Café latte aromatizado,620.0,2.583,215.0
+265,136641,1,Sexta,17:00,Tarde,Ceia,92102400,"Iced Coffee, brewed",Café coado gelado,615.0,2.562,188.0
+267,136670,1,Terça,17:00,Tarde,Bebida avulsa,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),372.0,1.55,104.0
+267,136670,2,Segunda,07:15,Manhã,Café da manhã,92102505,"Coffee, Iced Latte, with non-dairy milk, flavored","Latte gelado com bebida vegetal, aromatizado",620.0,2.583,221.0
+268,136688,1,Quinta,05:45,Manhã,Café da manhã,92101500,"Coffee, brewed, blend of regular and decaffeinated","Café coado, mistura comum e descafeinado",270.0,1.125,55.0
+268,136688,2,Sábado,10:00,Manhã,Brunch,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+273,136852,2,Quinta,08:00,Manhã,Café da manhã,92101900,"Coffee, Latte",Café latte,240.0,1.0,86.0
+283,136950,2,Quinta,10:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,525.0,2.188,210.0
+287,137066,1,Segunda,07:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,195.0,0.812,78.0
+287,137066,2,Domingo,10:00,Manhã,Bebida avulsa,92161002,"Coffee, Cappuccino, with non-dairy milk",Cappuccino com bebida vegetal,120.0,0.5,43.0
+289,137112,2,Sexta,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,600.0,2.5,240.0
+290,137191,2,Quinta,09:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,360.0,1.5,110.0
+291,137198,1,Quarta,08:15,Manhã,Café da manhã,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),372.0,1.55,104.0
+292,137237,1,Segunda,09:00,Manhã,Café da manhã,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,255.0,1.062,67.0
+292,137237,2,Quarta,12:00,Tarde,Almoço,92101000,"Coffee, brewed",Café coado,195.0,0.812,78.0
+295,137345,1,Sábado,11:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+295,137345,2,Terça,06:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+299,137473,1,Terça,06:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,720.0,3.0,220.0
+299,137473,2,Sábado,06:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,240.0,1.0,73.0
+299,137473,2,Sábado,06:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,960.0,4.0,294.0
+301,137580,1,Quarta,10:00,Manhã,Café da manhã,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,180.0,0.75,47.0
+301,137580,2,Segunda,10:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,480.0,2.0,192.0
+304,137653,2,Quarta,06:30,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,600.0,2.5,183.0
+307,137675,1,Terça,08:30,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,360.0,1.5,110.0
+307,137675,2,Sexta,08:30,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,421.2,1.755,129.0
+310,137740,1,Sábado,08:15,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,195.0,0.812,78.0
+310,137740,2,Quarta,06:30,Manhã,Café da manhã,92161000,"Coffee, Cappuccino",Cappuccino,480.0,2.0,174.0
+313,137784,1,Domingo,12:30,Tarde,Almoço,92102400,"Iced Coffee, brewed",Café coado gelado,360.0,1.5,110.0
+313,137784,2,Sexta,09:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,360.0,1.5,110.0
+313,137784,2,Sexta,15:00,Tarde,Lanche,92102400,"Iced Coffee, brewed",Café coado gelado,360.0,1.5,110.0
+319,138032,1,Quinta,09:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+319,138032,2,Quarta,10:00,Manhã,Café da manhã,92101500,"Coffee, brewed, blend of regular and decaffeinated","Café coado, mistura comum e descafeinado",150.0,0.625,31.0
+321,138063,1,Quinta,10:30,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,480.0,2.0,147.0
+322,138131,1,Domingo,06:00,Manhã,Café da manhã,92114000,"Coffee, instant, decaffeinated, reconstituted",Café solúvel descafeinado,195.0,0.812,2.0
+322,138131,2,Quarta,06:30,Manhã,Café da manhã,92114000,"Coffee, instant, decaffeinated, reconstituted",Café solúvel descafeinado,195.0,0.812,2.0
+326,138290,1,Quarta,10:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+326,138290,2,Sábado,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+327,138315,1,Segunda,10:30,Manhã,Café da manhã,92101610,"Coffee, espresso",Café espresso,120.0,0.5,254.0
+327,138315,2,Quinta,07:30,Manhã,Bebida avulsa,92101610,"Coffee, espresso",Café espresso,120.0,0.5,254.0
+328,138350,1,Domingo,09:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,270.0,1.125,108.0
+328,138350,2,Quinta,06:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+328,138350,2,Quinta,09:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,525.0,2.188,210.0
+329,138359,1,Sexta,16:15,Tarde,Jantar,92101000,"Coffee, brewed",Café coado,600.0,2.5,240.0
+329,138359,2,Domingo,09:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,80.0,0.333,32.0
+329,138359,2,Domingo,12:00,Tarde,Almoço,92102400,"Iced Coffee, brewed",Café coado gelado,600.0,2.5,183.0
+330,138364,1,Quinta,05:45,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+330,138364,1,Quinta,10:45,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,195.0,0.812,78.0
+330,138364,2,Terça,05:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,315.0,1.312,126.0
+330,138364,2,Terça,07:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,345.0,1.438,138.0
+331,138379,1,Sábado,09:30,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,600.0,2.5,183.0
+336,138498,1,Quarta,09:00,Manhã,Café da manhã,92101610,"Coffee, espresso",Café espresso,240.0,1.0,509.0
+336,138498,1,Quarta,15:00,Tarde,Bebida avulsa,92101610,"Coffee, espresso",Café espresso,90.0,0.375,191.0
+336,138498,2,Quinta,08:00,Manhã,Café da manhã,92101610,"Coffee, espresso",Café espresso,120.0,0.5,254.0
+340,138625,1,Quarta,09:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+340,138625,2,Domingo,12:00,Tarde,Bebida avulsa,92102400,"Iced Coffee, brewed",Café coado gelado,360.0,1.5,110.0
+341,138627,1,Quarta,09:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+341,138627,2,Quinta,18:00,Noite,Bebida avulsa,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),542.5,2.26,152.0
+346,138730,1,Sábado,11:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,390.0,1.625,156.0
+346,138730,2,Quarta,07:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+346,138730,2,Quarta,16:00,Tarde,Bebida avulsa,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+347,138781,2,Quarta,12:00,Tarde,Café da manhã,92102503,"Coffee, Iced Latte, flavored",Latte gelado aromatizado,542.5,2.26,194.0
+348,138811,2,Quarta,10:30,Manhã,Lanche,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),449.5,1.873,126.0
+352,138865,1,Quinta,07:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,600.0,2.5,183.0
+355,138882,1,Quarta,06:00,Manhã,Café da manhã,92101610,"Coffee, espresso",Café espresso,120.0,0.5,254.0
+355,138882,1,Quarta,10:00,Manhã,Lanche,92161000,"Coffee, Cappuccino",Cappuccino,360.0,1.5,130.0
+355,138882,2,Segunda,06:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+355,138882,2,Segunda,10:00,Manhã,Bebida avulsa,92161000,"Coffee, Cappuccino",Cappuccino,360.0,1.5,130.0
+355,138882,2,Segunda,14:30,Tarde,Lanche,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+356,138916,1,Terça,05:30,Manhã,Consumo prolongado,92101000,"Coffee, brewed",Café coado,765.0,3.188,306.0
+356,138916,2,Quinta,05:45,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+356,138916,2,Quinta,07:30,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,525.0,2.188,210.0
+359,138973,1,Quarta,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+359,138973,2,Quinta,07:30,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,480.0,2.0,147.0
+362,139013,1,Domingo,07:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+366,139119,1,Terça,06:00,Manhã,Consumo prolongado,92101610,"Coffee, espresso",Café espresso,270.0,1.125,572.0
+366,139119,2,Domingo,07:00,Manhã,Café da manhã,92101610,"Coffee, espresso",Café espresso,240.0,1.0,509.0
+369,139157,2,Segunda,07:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+370,139181,1,Sexta,06:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,720.0,3.0,288.0
+370,139181,2,Sexta,07:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,480.0,2.0,192.0
+372,139287,1,Terça,06:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,1080.0,4.5,432.0
+372,139287,2,Domingo,08:00,Manhã,Café da manhã,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,300.0,1.25,79.0
+373,139317,1,Quarta,10:30,Manhã,Lanche,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+373,139317,1,Quarta,13:30,Tarde,Lanche,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+373,139317,2,Domingo,09:00,Manhã,Bebida avulsa,92102400,"Iced Coffee, brewed",Café coado gelado,180.0,0.75,55.0
+374,139319,1,Terça,08:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+375,139321,1,Quinta,10:00,Manhã,Café da manhã,92101904,"Coffee, Latte, flavored",Café latte aromatizado,744.0,3.1,258.0
+378,139420,2,Domingo,07:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,390.0,1.625,156.0
+378,139420,2,Domingo,14:00,Tarde,Bebida avulsa,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+384,139561,1,Terça,10:00,Manhã,Bebida avulsa,92161002,"Coffee, Cappuccino, with non-dairy milk",Cappuccino com bebida vegetal,195.0,0.812,70.0
+384,139561,2,Sexta,11:00,Manhã,Bebida avulsa,92161002,"Coffee, Cappuccino, with non-dairy milk",Cappuccino com bebida vegetal,150.0,0.625,54.0
+385,139570,2,Quarta,11:00,Manhã,Almoço,92121010,"Coffee, instant, pre-sweetened with sugar, reconstituted",Café solúvel adoçado,201.5,0.84,51.0
+391,139648,1,Quarta,10:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,510.0,2.125,204.0
+393,139707,1,Terça,07:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+393,139707,2,Domingo,09:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+402,140016,1,Sexta,08:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,510.0,2.125,204.0
+402,140016,2,Quarta,10:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+406,140057,1,Quinta,12:00,Tarde,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,300.0,1.25,92.0
+406,140057,1,Quinta,17:00,Tarde,Jantar,92102400,"Iced Coffee, brewed",Café coado gelado,240.0,1.0,73.0
+407,140094,1,Terça,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+407,140094,2,Domingo,10:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+408,140101,1,Domingo,11:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+409,140111,1,Quinta,06:30,Manhã,Café da manhã,92101610,"Coffee, espresso",Café espresso,180.0,0.75,382.0
+409,140111,2,Quarta,12:30,Tarde,Lanche,92102400,"Iced Coffee, brewed",Café coado gelado,480.0,2.0,147.0
+411,140117,1,Quarta,06:30,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,600.0,2.5,183.0
+417,140243,1,Sábado,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,75.0,0.312,30.0
+419,140262,1,Quinta,09:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+419,140262,1,Quinta,18:30,Noite,Lanche,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+419,140262,2,Domingo,08:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+419,140262,2,Domingo,15:45,Tarde,Lanche,92101000,"Coffee, brewed",Café coado,120.0,0.5,48.0
+420,140299,2,Quinta,11:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,420.0,1.75,128.0
+423,140352,2,Quarta,13:30,Tarde,Bebida avulsa,92102400,"Iced Coffee, brewed",Café coado gelado,255.0,1.062,78.0
+425,140364,1,Segunda,09:30,Manhã,Bebida avulsa,92171010,"Coffee, bottled/canned, light",Café pronto light (garrafa/lata),270.0,1.125,65.0
+425,140364,2,Domingo,10:30,Manhã,Bebida avulsa,92171010,"Coffee, bottled/canned, light",Café pronto light (garrafa/lata),240.0,1.0,58.0
+428,140436,1,Domingo,11:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+430,140521,2,Terça,09:30,Manhã,Café da manhã,92102500,"Coffee, Iced Latte",Latte gelado,90.0,0.375,33.0
+431,140525,1,Terça,14:30,Tarde,Bebida avulsa,92102400,"Iced Coffee, brewed",Café coado gelado,300.0,1.25,92.0
+431,140525,2,Sexta,10:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,360.0,1.5,110.0
+432,140586,1,Quarta,10:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+432,140586,1,Quarta,12:15,Tarde,Almoço,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+432,140586,1,Quarta,12:15,Tarde,Almoço,92101000,"Coffee, brewed",Café coado,120.0,0.5,48.0
+432,140586,1,Quarta,14:00,Tarde,Bebida avulsa,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+432,140586,1,Quarta,15:00,Tarde,Lanche,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+432,140586,2,Terça,10:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+432,140586,2,Terça,12:00,Tarde,Almoço,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+432,140586,2,Terça,14:00,Tarde,Bebida avulsa,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+432,140586,2,Terça,17:00,Tarde,Bebida avulsa,92130010,"Coffee, pre-lightened",Café com leite pronto,255.0,1.062,66.0
+432,140586,2,Terça,20:00,Noite,Jantar,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+433,140595,1,Segunda,04:45,Noite,Lanche,92102400,"Iced Coffee, brewed",Café coado gelado,480.0,2.0,147.0
+433,140595,2,Quinta,04:30,Noite,Lanche,92102400,"Iced Coffee, brewed",Café coado gelado,480.0,2.0,147.0
+436,140648,1,Quarta,10:00,Manhã,Café da manhã,92101850,"Coffee, cafe con leche",Café com leite (café con leche),372.0,1.55,388.0
+436,140648,1,Quarta,14:00,Tarde,Almoço,92101000,"Coffee, brewed",Café coado,60.0,0.25,24.0
+436,140648,2,Quinta,07:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,60.0,0.25,24.0
+436,140648,2,Quinta,14:00,Tarde,Almoço,92101000,"Coffee, brewed",Café coado,60.0,0.25,24.0
+437,140663,1,Quarta,09:00,Manhã,Café da manhã,92101820,"Coffee, macchiato, sweetened",Macchiato adoçado,62.0,0.258,84.0
+438,140672,1,Domingo,11:00,Manhã,Café da manhã,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,615.0,2.562,162.0
+438,140672,2,Segunda,08:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,615.0,2.562,246.0
+439,140698,1,Quinta,16:00,Tarde,Bebida avulsa,92101906,"Coffee, Latte, with non-dairy milk, flavored","Latte com bebida vegetal, aromatizado",496.0,2.067,171.0
+439,140698,2,Quarta,17:00,Tarde,Jantar,92101000,"Coffee, brewed",Café coado,345.0,1.438,138.0
+441,140808,1,Quarta,10:00,Manhã,Café da manhã,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,180.0,0.75,47.0
+441,140808,2,Segunda,10:00,Manhã,Bebida avulsa,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,345.0,1.438,91.0
+441,140808,2,Segunda,14:00,Tarde,Bebida avulsa,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+442,140851,1,Domingo,10:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+442,140851,2,Quarta,07:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,525.0,2.188,210.0
+446,140941,2,Quarta,09:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,240.0,1.0,96.0
+457,141172,1,Domingo,15:00,Tarde,Lanche,92102400,"Iced Coffee, brewed",Café coado gelado,240.0,1.0,73.0
+457,141172,2,Sexta,11:00,Manhã,Café da manhã,92101820,"Coffee, macchiato, sweetened",Macchiato adoçado,201.5,0.84,274.0
+457,141172,2,Sexta,15:00,Tarde,Lanche,92102400,"Iced Coffee, brewed",Café coado gelado,240.0,1.0,73.0
+459,141223,2,Quarta,08:30,Manhã,Bebida avulsa,92102505,"Coffee, Iced Latte, with non-dairy milk, flavored","Latte gelado com bebida vegetal, aromatizado",186.0,0.775,66.0
+462,141274,1,Sexta,08:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+462,141274,2,Quarta,08:45,Manhã,Café da manhã,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),294.5,1.227,82.0
+464,141383,1,Segunda,09:30,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,435.0,1.812,174.0
+466,141397,1,Quarta,07:00,Manhã,Café da manhã,92103000,"Coffee, instant, reconstituted",Café solúvel preparado,525.0,2.188,138.0
+470,141583,1,Terça,10:00,Manhã,Café da manhã,92101906,"Coffee, Latte, with non-dairy milk, flavored","Latte com bebida vegetal, aromatizado",325.5,1.356,112.0
+471,141617,1,Sexta,09:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,420.0,1.75,168.0
+471,141617,2,Quinta,09:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,255.0,1.062,102.0
+472,141703,1,Domingo,10:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,480.0,2.0,147.0
+472,141703,2,Segunda,08:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,600.0,2.5,240.0
+474,141741,1,Segunda,09:00,Manhã,Café da manhã,92102400,"Iced Coffee, brewed",Café coado gelado,360.0,1.5,110.0
+474,141741,1,Segunda,21:00,Noite,Lanche,92102400,"Iced Coffee, brewed",Café coado gelado,360.0,1.5,110.0
+475,141742,1,Domingo,17:00,Tarde,Café da manhã,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+475,141742,2,Quarta,21:00,Noite,Bebida avulsa,92101000,"Coffee, brewed",Café coado,75.0,0.312,30.0
+476,141777,1,Terça,13:00,Tarde,Café da manhã,92101000,"Coffee, brewed",Café coado,300.0,1.25,120.0
+476,141777,2,Quarta,07:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+479,141851,1,Domingo,12:00,Tarde,Bebida avulsa,92101000,"Coffee, brewed",Café coado,60.0,0.25,24.0
+479,141851,2,Quarta,09:00,Manhã,Bebida avulsa,92102400,"Iced Coffee, brewed",Café coado gelado,345.0,1.438,105.0
+485,141961,1,Domingo,09:00,Manhã,Bebida avulsa,92171000,"Coffee, bottled/canned",Café pronto (garrafa/lata),465.0,1.938,130.0
+486,141980,1,Segunda,07:15,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,225.0,0.938,90.0
+486,141980,2,Terça,09:00,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,315.0,1.312,126.0
+486,141980,2,Terça,22:00,Noite,Jantar,92101000,"Coffee, brewed",Café coado,525.0,2.188,210.0
+488,142030,1,Quarta,05:30,Manhã,Café da manhã,92101000,"Coffee, brewed",Café coado,360.0,1.5,144.0
+488,142030,2,Segunda,10:30,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,180.0,0.75,72.0
+493,142117,1,Terça,10:00,Manhã,Bebida avulsa,92101000,"Coffee, brewed",Café coado,510.0,2.125,204.0
+493,142117,2,Segunda,10:00,Manhã,Consumo prolongado,92101000,"Coffee, brewed",Café coado,720.0,3.0,288.0

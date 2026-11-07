@@ -1,6 +1,8 @@
 raw/
 *.pdf
 __pycache__/
+# a raiz do app ignora "out/"; aqui os resultados processados devem ir para o git
+!out/
 out/Base_Real_Cafe_NHANES_496.xlsx
 out/Trabalho_Cafe_Dados_Reais_NHANES.docx
 out/apresentacao-cafe.html

@@ -1,0 +1,497 @@
+ID,SEQN (NHANES),Gênero,Idade (anos),Faixa etária,Situação na semana anterior,Café no dia 1 (mL),Café no dia 2 (mL),Dias com café (0–2),Consumo de café,Tomou café (Sim/Não),Xícaras/dia (240 mL),Faixa de xícaras/dia,Período de maior consumo,Menor intervalo café→dormir (h),Cafeína total (mg/dia),Cafeína do café (mg/dia),Hora de dormir (dias úteis),Hora de acordar (dias úteis),Sono em dias úteis (h),Sono no fim de semana (h),Sono < 7 h em dias úteis,Problemas de sono (0–3),Problemas de sono (frequência),Sono prejudicado (Sim/Não),Dificuldade de concentração (0–3),Dificuldade de concentração (frequência),Concentração prejudicada (Sim/Não)
+1,130400,Masculino,26,26 a 29,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,92.0,0.0,22:00,07:30,9.5,8.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+2,130401,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,56.0,0.0,00:00,07:00,7.0,9.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+3,130420,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,44.5,0.0,23:00,08:00,9.0,9.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+4,130449,Feminino,26,26 a 29,Trabalhando,600.0,0.0,1,Um dos dois dias,Sim,1.25,Mais de 1 a 2,Manhã,13.0,269.5,120.0,22:00,06:30,8.5,10.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+5,130473,Feminino,26,26 a 29,Trabalhando,480.0,0.0,1,Um dos dois dias,Sim,1.0,Até 1,Tarde,13.0,119.5,73.5,00:00,08:00,8.0,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+6,130484,Feminino,22,22 a 25,Trabalhando,1116.0,360.0,2,Os dois dias,Sim,3.075,Mais de 3,Manhã,8.0,316.0,265.5,22:00,07:00,9.0,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+7,130520,Masculino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,7.5,0.0,23:30,07:45,8.5,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+8,130546,Masculino,24,22 a 25,Outra situação,2880.0,960.0,2,Os dois dias,Sim,8.0,Mais de 3,Manhã,4.0,824.5,768.0,02:00,11:00,9.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+9,130553,Feminino,28,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,16.5,0.0,21:30,06:30,9.0,9.0,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+10,130619,Masculino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,39.5,0.0,22:00,06:00,8.0,5.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+11,130671,Feminino,25,22 a 25,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,186.5,0.0,02:00,10:00,8.0,7.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+12,130697,Feminino,20,18 a 21,Trabalhando,525.0,480.0,2,Os dois dias,Sim,2.0938,Mais de 2 a 3,Manhã,14.0,154.0,154.0,22:00,06:00,8.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+13,130707,Feminino,22,22 a 25,Trabalhando,435.0,0.0,1,Um dos dois dias,Sim,0.9062,Até 1,Manhã,15.0,93.0,87.0,22:00,05:30,7.5,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+14,130729,Feminino,19,18 a 21,Trabalhando,0.0,240.0,1,Um dos dois dias,Sim,0.5,Até 1,Noite,1.0,83.5,48.0,20:00,05:00,9.0,11.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+15,130779,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,57.0,0.0,00:30,06:45,6.5,7.5,Sim,1,Vários dias,Sim,1,Vários dias,Sim
+16,130800,Feminino,28,26 a 29,Trabalhando,186.0,0.0,1,Um dos dois dias,Sim,0.3875,Até 1,Tarde,10.5,129.5,126.5,01:00,09:00,8.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+17,130828,Feminino,22,22 a 25,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,49.5,0.0,03:00,12:00,9.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+18,130842,Masculino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,53.5,0.0,23:00,05:00,6.0,9.0,Sim,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+19,130933,Masculino,23,22 a 25,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,97.0,0.0,00:00,06:30,6.5,7.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+20,130951,Feminino,27,26 a 29,Trabalhando,0.0,240.0,1,Um dos dois dias,Sim,0.5,Até 1,Tarde,10.5,52.0,36.5,22:30,04:45,6.5,8.0,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+21,130961,Masculino,29,26 a 29,Trabalhando,720.0,840.0,2,Os dois dias,Sim,3.25,Mais de 3,Manhã,4.5,312.0,312.0,23:30,06:30,7.0,8.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+22,130963,Masculino,18,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,21.0,0.0,22:00,06:00,8.0,10.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+23,130992,Masculino,28,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,258.0,0.0,22:00,04:00,6.0,11.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+24,131025,Feminino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,93.0,0.0,01:00,07:00,6.0,8.0,Sim,3,Quase todos os dias,Sim,0,Nenhum dia,Não
+25,131035,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,11.0,0.0,22:30,06:30,8.0,10.5,Não,1,Vários dias,Sim,3,Quase todos os dias,Sim
+26,131048,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,62.0,0.0,23:00,07:30,8.5,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+27,131094,Feminino,26,26 a 29,Trabalhando,0.0,240.0,1,Um dos dois dias,Sim,0.5,Até 1,Manhã,14.0,90.0,43.5,23:30,06:00,6.5,9.0,Sim,3,Quase todos os dias,Sim,0,Nenhum dia,Não
+28,131147,Feminino,25,22 a 25,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.5,0.0,23:30,06:30,7.0,7.5,Não,1,Vários dias,Sim,1,Vários dias,Sim
+29,131196,Masculino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,22.5,0.0,00:00,08:00,8.0,10.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+30,131209,Feminino,20,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,23:00,07:00,8.0,11.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+31,131305,Masculino,23,22 a 25,Trabalhando,240.0,0.0,1,Um dos dois dias,Sim,0.5,Até 1,Manhã,12.5,86.0,48.0,23:30,08:30,9.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+32,131309,Feminino,22,22 a 25,Trabalhando,630.0,630.0,2,Os dois dias,Sim,2.625,Mais de 2 a 3,Manhã,6.5,234.5,231.5,00:30,09:00,8.5,9.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+33,131316,Feminino,19,18 a 21,Procurando trabalho,155.0,105.0,2,Os dois dias,Sim,0.5417,Até 1,Manhã,13.5,41.0,34.0,00:00,08:00,8.0,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+34,131323,Feminino,27,26 a 29,Estudando,300.0,300.0,2,Os dois dias,Sim,1.25,Mais de 1 a 2,Manhã,13.0,100.5,91.0,22:00,05:30,7.5,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+35,131396,Feminino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,5.5,0.0,23:00,07:00,8.0,8.5,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+36,131408,Feminino,19,18 a 21,Estudando,360.0,300.0,2,Os dois dias,Sim,1.375,Mais de 1 a 2,Manhã,14.5,118.0,118.0,22:30,06:30,8.0,8.5,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+37,131412,Feminino,21,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,41.0,0.0,22:00,08:00,10.0,10.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+38,131420,Feminino,18,18 a 21,Trabalhando,0.0,496.0,1,Um dos dois dias,Sim,1.0333,Mais de 1 a 2,Manhã,10.5,89.5,88.5,21:00,05:30,8.5,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+39,131421,Masculino,18,18 a 21,Trabalhando,424.7,0.0,1,Um dos dois dias,Sim,0.8848,Até 1,Tarde,10.0,107.5,59.5,23:00,06:00,7.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+40,131433,Feminino,25,22 a 25,Trabalhando,480.0,480.0,2,Os dois dias,Sim,2.0,Mais de 1 a 2,Manhã,13.0,122.5,5.0,00:00,08:00,8.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+41,131444,Feminino,23,22 a 25,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,5.5,0.0,01:00,07:45,7.0,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+42,131453,Masculino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,17.0,0.0,22:30,06:30,8.0,7.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+43,131464,Masculino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,36.0,0.0,23:00,05:30,6.5,10.0,Sim,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+44,131489,Feminino,23,22 a 25,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.5,0.0,00:00,08:00,8.0,10.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+45,131501,Masculino,21,18 a 21,Trabalhando,420.0,300.0,2,Os dois dias,Sim,1.5,Mais de 1 a 2,Manhã,13.75,145.0,144.0,21:30,06:15,9.0,7.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+46,131518,Masculino,26,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,4.5,0.0,02:00,10:30,8.5,8.5,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+47,131544,Feminino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,21:00,05:30,8.5,11.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+48,131588,Feminino,29,26 a 29,Outra situação,735.0,360.0,2,Os dois dias,Sim,2.2812,Mais de 2 a 3,Manhã,4.0,241.0,219.0,00:00,06:00,6.0,6.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+49,131671,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,52.0,0.0,00:00,05:30,5.5,8.0,Sim,3,Quase todos os dias,Sim,3,Quase todos os dias,Sim
+50,131672,Masculino,22,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,68.5,0.0,22:30,08:00,9.5,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+51,131681,Feminino,24,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,16.5,0.0,22:30,07:00,8.5,9.0,Não,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+52,131699,Feminino,29,26 a 29,Trabalhando,390.0,360.0,2,Os dois dias,Sim,1.5625,Mais de 1 a 2,Manhã,11.5,151.5,150.0,21:30,07:00,9.5,11.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+53,131714,Feminino,24,22 a 25,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,31.0,0.0,00:00,09:00,9.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+54,131759,Masculino,24,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,21:30,06:30,9.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+55,131773,Feminino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:30,07:00,8.5,9.5,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+56,131786,Masculino,28,26 a 29,Trabalhando,120.0,0.0,1,Um dos dois dias,Sim,0.25,Até 1,Manhã,12.0,16.0,16.0,23:00,09:00,10.0,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+57,131788,Masculino,19,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,66.5,0.0,22:00,06:30,8.5,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+58,131792,Masculino,18,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,27.5,0.0,22:00,06:00,8.0,7.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+59,131812,Masculino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,124.5,0.0,01:00,08:00,7.0,8.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+60,131826,Feminino,21,18 a 21,Estudando,300.0,240.0,2,Os dois dias,Sim,1.125,Mais de 1 a 2,Manhã,13.5,108.0,108.0,22:30,07:00,8.5,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+61,131842,Masculino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,19.0,0.0,00:00,06:15,6.5,7.5,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+62,131848,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,23:30,06:00,6.5,9.5,Sim,1,Vários dias,Sim,1,Vários dias,Sim
+63,131852,Masculino,20,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,136.5,0.0,22:00,06:00,8.0,12.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+64,131855,Masculino,19,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.0,0.0,02:00,10:00,8.0,9.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+65,131867,Feminino,22,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,45.0,0.0,00:00,06:00,6.0,9.0,Sim,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+66,131871,Feminino,26,26 a 29,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,40.5,0.0,22:00,08:00,10.0,10.0,Não,3,Quase todos os dias,Sim,1,Vários dias,Sim
+67,131916,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,15.5,0.0,23:00,06:00,7.0,11.0,Não,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+68,131938,Feminino,22,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,86.5,0.0,23:00,06:00,7.0,9.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+69,131958,Masculino,20,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:30,04:25,6.0,8.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+70,131972,Feminino,26,26 a 29,Trabalhando,600.0,248.0,2,Os dois dias,Sim,1.7667,Mais de 1 a 2,Manhã,12.5,697.0,670.5,00:00,09:00,9.0,6.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+71,132011,Masculino,24,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.0,0.0,23:00,07:30,8.5,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+72,132064,Masculino,28,26 a 29,Trabalhando,1200.0,960.0,2,Os dois dias,Sim,4.5,Mais de 3,Manhã,14.0,478.0,432.0,21:00,04:00,7.0,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+73,132089,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,12:00,12.0,12.0,Não,3,Quase todos os dias,Sim,1,Vários dias,Sim
+74,132143,Feminino,22,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,56.0,0.0,00:00,11:00,11.0,11.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+75,132155,Feminino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,5.5,0.0,23:00,10:00,11.0,9.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+76,132165,Masculino,26,26 a 29,Trabalhando,263.5,360.0,2,Os dois dias,Sim,1.299,Mais de 1 a 2,Manhã,13.0,177.5,117.5,00:00,08:00,8.0,9.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+77,132168,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,5.0,0.0,22:00,06:00,8.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+78,132172,Masculino,19,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,5.0,0.0,00:00,07:30,7.5,8.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+79,132177,Masculino,28,26 a 29,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,96.0,0.0,04:00,10:00,6.0,6.0,Sim,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+80,132188,Feminino,29,26 a 29,Outra situação,90.0,124.0,2,Os dois dias,Sim,0.4458,Até 1,Manhã,15.5,18.0,12.5,23:00,06:00,7.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+81,132206,Masculino,21,18 a 21,Trabalhando,0.0,255.0,1,Um dos dois dias,Sim,0.5312,Até 1,Manhã,19.0,63.5,51.0,02:00,16:00,14.0,12.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+82,132207,Masculino,21,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,45.0,0.0,22:00,05:30,7.5,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+83,132222,Masculino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,60.5,0.0,00:00,07:30,7.5,7.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+84,132231,Masculino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,287.5,0.0,00:00,10:00,10.0,10.0,Não,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+85,132252,Masculino,24,22 a 25,Trabalhando,120.0,60.0,2,Os dois dias,Sim,0.375,Até 1,Manhã,15.25,191.5,190.5,00:30,08:45,8.5,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+86,132260,Feminino,29,26 a 29,Trabalhando,960.0,255.0,2,Os dois dias,Sim,2.5312,Mais de 2 a 3,Manhã,15.0,243.0,243.0,23:00,06:30,7.5,7.5,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+87,132286,Masculino,26,26 a 29,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,10:00,10.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+88,132298,Feminino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.5,0.0,22:00,04:00,6.0,7.0,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+89,132309,Feminino,21,18 a 21,Trabalhando,90.0,90.0,2,Os dois dias,Sim,0.375,Até 1,Manhã,15.5,72.5,32.0,22:00,08:00,10.0,11.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+90,132316,Feminino,21,18 a 21,Trabalhando,0.0,120.0,1,Um dos dois dias,Sim,0.25,Até 1,Manhã,13.0,94.0,21.5,00:00,10:00,10.0,10.0,Não,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+91,132321,Masculino,19,18 a 21,Estudando,240.0,345.0,2,Os dois dias,Sim,1.2188,Mais de 1 a 2,Manhã,15.0,59.0,53.5,00:00,07:00,7.0,8.0,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+92,132341,Feminino,28,26 a 29,Trabalhando,496.0,496.0,2,Os dois dias,Sim,2.0667,Mais de 2 a 3,Manhã,13.0,176.5,176.0,00:00,08:00,8.0,9.0,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+93,132351,Feminino,27,26 a 29,Trabalhando,255.0,240.0,2,Os dois dias,Sim,1.0312,Mais de 1 a 2,Manhã,13.0,95.5,87.0,00:00,08:00,8.0,9.0,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+94,132364,Masculino,24,22 a 25,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,29.5,0.0,00:00,08:00,8.0,8.0,Não,0,Nenhum dia,Não,2,Mais da metade dos dias,Sim
+95,132393,Feminino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,14.0,0.0,23:00,06:00,7.0,7.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+96,132399,Feminino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.0,0.0,00:00,07:00,7.0,6.0,Não,3,Quase todos os dias,Sim,0,Nenhum dia,Não
+97,132406,Masculino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,195.5,0.0,03:00,09:00,6.0,7.0,Sim,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+98,132428,Masculino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,197.5,0.0,20:00,05:00,9.0,13.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+99,132461,Masculino,19,18 a 21,Outra situação,255.0,255.0,2,Os dois dias,Sim,1.0625,Mais de 1 a 2,Manhã,13.0,102.0,102.0,23:00,06:00,7.0,7.0,Não,0,Nenhum dia,Não,3,Quase todos os dias,Sim
+100,132526,Feminino,23,22 a 25,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,73.5,0.0,23:00,08:00,9.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+101,132552,Feminino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,42.0,0.0,19:30,04:30,9.0,11.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+102,132554,Feminino,29,26 a 29,Trabalhando,240.0,180.0,2,Os dois dias,Sim,0.875,Até 1,Manhã,15.0,185.0,55.0,00:00,07:00,7.0,8.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+103,132631,Feminino,29,26 a 29,Trabalhando,480.0,360.0,2,Os dois dias,Sim,1.75,Mais de 1 a 2,Manhã,-6.75,236.0,168.0,22:00,04:30,6.5,10.5,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+104,132638,Feminino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,17.5,0.0,00:00,07:00,7.0,8.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+105,132662,Masculino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,39.5,0.0,00:00,06:30,6.5,6.5,Sim,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+106,132676,Feminino,19,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,20:00,06:00,10.0,10.0,Não,3,Quase todos os dias,Sim,1,Vários dias,Sim
+107,132706,Feminino,21,18 a 21,Trabalhando,360.0,0.0,1,Um dos dois dias,Sim,0.75,Até 1,Manhã,12.0,120.5,72.0,23:00,05:00,6.0,11.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+108,132707,Masculino,18,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:00,02:00,4.0,7.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+109,132710,Feminino,24,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,08:00,8.0,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+110,132781,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,23:00,07:00,8.0,8.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+111,132826,Feminino,19,18 a 21,Trabalhando,300.0,0.0,1,Um dos dois dias,Sim,0.625,Até 1,Manhã,15.0,60.0,60.0,22:00,06:15,8.5,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+112,132872,Feminino,26,26 a 29,Outra situação,30.0,60.0,2,Os dois dias,Sim,0.1875,Até 1,Tarde,9.0,96.0,95.5,00:00,07:00,7.0,8.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+113,132930,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,6.5,0.0,00:00,07:00,7.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+114,132950,Masculino,24,22 a 25,Trabalhando,60.0,225.0,2,Os dois dias,Sim,0.5938,Até 1,Tarde,16.0,68.5,52.5,06:00,15:00,9.0,10.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+115,132957,Masculino,20,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,19.0,0.0,20:00,03:30,7.5,10.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+116,132978,Masculino,23,22 a 25,Trabalhando,480.0,210.0,2,Os dois dias,Sim,1.4375,Mais de 1 a 2,Tarde,10.5,150.5,127.0,00:30,09:00,8.5,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+117,132985,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.0,0.0,23:00,04:30,5.5,9.5,Sim,0,Nenhum dia,Não,1,Vários dias,Sim
+118,133002,Masculino,28,26 a 29,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,21:30,06:00,8.5,10.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+119,133013,Feminino,23,22 a 25,Trabalhando,525.0,60.0,2,Os dois dias,Sim,1.2188,Mais de 1 a 2,Tarde,5.5,122.0,92.5,23:00,06:45,8.0,10.0,Não,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+120,133015,Feminino,28,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.0,0.0,21:00,06:00,9.0,9.5,Não,1,Vários dias,Sim,1,Vários dias,Sim
+121,133040,Feminino,19,18 a 21,Trabalhando,108.5,0.0,1,Um dos dois dias,Sim,0.226,Até 1,Manhã,13.5,21.0,15.0,21:00,07:00,10.0,8.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+122,133044,Feminino,25,22 a 25,Trabalhando,217.8,360.0,2,Os dois dias,Sim,1.2037,Mais de 1 a 2,Noite,1.0,117.5,115.5,03:00,06:30,3.5,3.5,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+123,133048,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,02:00,10:00,8.0,8.0,Não,0,Nenhum dia,Não,3,Quase todos os dias,Sim
+124,133086,Feminino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,23:00,08:30,9.5,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+125,133134,Masculino,28,26 a 29,Trabalhando,690.0,837.0,2,Os dois dias,Sim,3.1812,Mais de 3,Manhã,12.0,373.5,269.5,00:00,07:00,7.0,7.5,Não,3,Quase todos os dias,Sim,3,Quase todos os dias,Sim
+126,133150,Feminino,24,22 a 25,Trabalhando,0.0,421.2,1,Um dos dois dias,Sim,0.8775,Até 1,Manhã,14.0,119.0,84.0,22:00,06:30,8.5,9.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+127,133153,Masculino,24,22 a 25,Trabalhando,240.0,360.0,2,Os dois dias,Sim,1.25,Mais de 1 a 2,Manhã,17.5,126.0,103.0,23:00,05:30,6.5,8.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+128,133198,Feminino,19,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:00,05:20,7.5,11.0,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+129,133289,Feminino,28,26 a 29,Outra situação,240.0,0.0,1,Um dos dois dias,Sim,0.5,Até 1,Manhã,14.0,156.5,48.0,22:00,08:00,10.0,10.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+130,133352,Masculino,22,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,29.0,0.0,04:00,12:00,8.0,7.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+131,133370,Feminino,26,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,23:30,09:00,9.5,10.5,Não,3,Quase todos os dias,Sim,1,Vários dias,Sim
+132,133373,Feminino,24,22 a 25,Trabalhando,0.0,360.0,1,Um dos dois dias,Sim,0.75,Até 1,Tarde,7.0,74.0,1.5,22:00,06:00,8.0,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+133,133378,Feminino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,9.5,0.0,23:00,09:15,10.5,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+134,133481,Masculino,29,26 a 29,Trabalhando,240.0,0.0,1,Um dos dois dias,Sim,0.5,Até 1,Manhã,14.0,162.5,48.0,23:30,07:00,7.5,9.5,Não,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+135,133486,Masculino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,89.5,0.0,23:00,06:00,7.0,7.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+136,133500,Feminino,24,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,3.5,0.0,02:00,07:00,5.0,6.0,Sim,1,Vários dias,Sim,1,Vários dias,Sim
+137,133535,Feminino,29,26 a 29,Outra situação,294.5,0.0,1,Um dos dois dias,Sim,0.6135,Até 1,Manhã,14.0,54.0,48.5,22:00,07:00,9.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+138,133549,Masculino,21,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:30,09:00,8.5,9.5,Não,0,Nenhum dia,Não,2,Mais da metade dos dias,Sim
+139,133565,Masculino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,02:30,12:00,9.5,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+140,133646,Feminino,21,18 a 21,Trabalhando,480.0,0.0,1,Um dos dois dias,Sim,1.0,Até 1,Tarde,11.5,116.5,73.5,00:00,10:00,10.0,10.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+141,133648,Feminino,28,26 a 29,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:30,06:30,6.0,7.0,Sim,0,Nenhum dia,Não,1,Vários dias,Sim
+142,133670,Masculino,21,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,8.0,0.0,00:00,09:00,9.0,8.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+143,133760,Feminino,22,22 a 25,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,12.0,0.0,00:00,07:00,7.0,9.0,Não,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+144,133772,Feminino,24,22 a 25,Trabalhando,270.0,735.0,2,Os dois dias,Sim,2.0938,Mais de 2 a 3,Noite,2.0,212.0,201.0,00:00,07:00,7.0,8.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+145,133787,Masculino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,,,14.0,14.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+146,133835,Feminino,21,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,20.5,0.0,23:00,07:00,8.0,8.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+147,133856,Masculino,20,18 a 21,Trabalhando,360.0,240.0,2,Os dois dias,Sim,1.25,Mais de 1 a 2,Manhã,11.0,34.0,33.5,22:00,05:00,7.0,11.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+148,133911,Feminino,19,18 a 21,Outra situação,195.0,195.0,2,Os dois dias,Sim,0.8125,Até 1,Manhã,14.83,65.0,50.5,23:00,06:00,7.0,10.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+149,133937,Feminino,23,22 a 25,Trabalhando,278.4,195.0,2,Os dois dias,Sim,0.9862,Até 1,Tarde,11.0,72.5,72.5,00:00,06:30,6.5,8.5,Sim,0,Nenhum dia,Não,1,Vários dias,Sim
+150,133948,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,101.0,0.0,23:00,08:00,9.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+151,133970,Masculino,18,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.5,0.0,01:00,10:00,9.0,9.0,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+152,133971,Masculino,22,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,11.0,0.0,01:00,08:00,7.0,10.0,Não,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+153,134002,Feminino,29,26 a 29,Trabalhando,360.0,0.0,1,Um dos dois dias,Sim,0.75,Até 1,Manhã,14.5,71.5,55.0,23:00,07:00,8.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+154,134048,Feminino,18,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.5,0.0,02:00,08:00,6.0,8.0,Sim,1,Vários dias,Sim,1,Vários dias,Sim
+155,134053,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,57.5,0.0,22:00,07:00,9.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+156,134072,Feminino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:30,07:00,8.5,8.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+157,134115,Feminino,29,26 a 29,Procurando trabalho,255.0,255.0,2,Os dois dias,Sim,1.0625,Mais de 1 a 2,Manhã,14.0,102.0,102.0,01:00,09:00,8.0,8.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+158,134142,Masculino,20,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,40.0,0.0,23:00,04:30,5.5,9.0,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+159,134149,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,4.5,0.0,20:00,09:30,13.5,13.5,Não,0,Nenhum dia,Não,3,Quase todos os dias,Sim
+160,134165,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,7.0,0.0,00:00,09:00,9.0,8.5,Não,1,Vários dias,Sim,1,Vários dias,Sim
+161,134184,Feminino,28,26 a 29,Trabalhando,240.0,0.0,1,Um dos dois dias,Sim,0.5,Até 1,Manhã,15.0,57.5,36.5,23:00,07:00,8.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+162,134197,Masculino,25,22 a 25,Estudando,294.5,0.0,1,Um dos dois dias,Sim,0.6135,Até 1,Manhã,17.5,48.5,48.5,02:00,09:00,7.0,7.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+163,134215,Feminino,27,26 a 29,Trabalhando,0.0,360.0,1,Um dos dois dias,Sim,0.75,Até 1,Manhã,14.0,109.0,55.0,23:00,07:15,8.5,8.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+164,134231,Masculino,26,26 a 29,Trabalhando,1020.0,1140.0,2,Os dois dias,Sim,4.5,Mais de 3,Manhã,1.5,478.0,432.0,22:30,07:00,8.5,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+165,134268,Feminino,27,26 a 29,Trabalhando,496.0,0.0,1,Um dos dois dias,Sim,1.0333,Mais de 1 a 2,Manhã,16.0,98.5,86.0,01:00,08:30,7.5,9.0,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+166,134280,Feminino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,23.5,0.0,00:00,07:00,7.0,9.0,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+167,134307,Masculino,19,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,10.0,0.0,01:00,08:00,7.0,7.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+168,134464,Feminino,20,18 a 21,Trabalhando,0.0,620.0,1,Um dos dois dias,Sim,1.2917,Mais de 1 a 2,Tarde,13.0,135.0,102.0,02:00,07:45,6.0,5.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+169,134487,Masculino,23,22 a 25,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,236.0,0.0,00:00,12:00,12.0,12.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+170,134493,Masculino,21,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,6.0,0.0,00:00,08:15,8.5,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+171,134506,Feminino,21,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,76.5,0.0,04:00,10:00,6.0,7.0,Sim,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+172,134545,Masculino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,84.5,0.0,22:00,04:30,6.5,6.0,Sim,0,Nenhum dia,Não,2,Mais da metade dos dias,Sim
+173,134555,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,16.5,0.0,00:00,07:00,7.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+174,134564,Feminino,24,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,87.0,0.0,23:30,06:30,7.0,8.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+175,134579,Feminino,25,22 a 25,Estudando,780.0,728.0,2,Os dois dias,Sim,3.1417,Mais de 3,Manhã,8.0,428.5,385.5,23:30,06:00,6.5,8.0,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+176,134580,Feminino,28,26 a 29,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,3.5,0.0,02:00,11:00,9.0,9.0,Não,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+177,134591,Feminino,20,18 a 21,Trabalhando,360.0,600.0,2,Os dois dias,Sim,2.0,Mais de 1 a 2,Manhã,13.0,230.5,192.0,22:30,06:30,8.0,8.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+178,134595,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,30.0,0.0,00:00,07:00,7.0,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+179,134596,Masculino,28,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,08:00,8.0,7.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+180,134606,Masculino,23,22 a 25,Trabalhando,0.0,480.0,1,Um dos dois dias,Sim,1.0,Até 1,Tarde,10.0,142.0,96.0,23:00,07:00,8.0,8.0,Não,3,Quase todos os dias,Sim,0,Nenhum dia,Não
+181,134624,Masculino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,85.0,0.0,05:00,12:00,7.0,3.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+182,134626,Feminino,19,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:30,09:00,10.5,10.5,Não,2,Mais da metade dos dias,Sim,3,Quase todos os dias,Sim
+183,134651,Masculino,25,22 a 25,Trabalhando,300.0,300.0,2,Os dois dias,Sim,1.25,Mais de 1 a 2,Manhã,13.0,172.0,120.0,23:30,08:00,8.5,7.5,Não,2,Mais da metade dos dias,Sim,3,Quase todos os dias,Sim
+184,134675,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,98.5,0.0,20:00,02:30,6.5,13.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+185,134676,Feminino,26,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,08:00,15:00,7.0,14.0,Não,3,Quase todos os dias,Sim,0,Nenhum dia,Não
+186,134696,Masculino,29,26 a 29,Trabalhando,960.0,1200.0,2,Os dois dias,Sim,4.5,Mais de 3,Manhã,16.5,461.0,432.0,00:30,07:30,7.0,7.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+187,134737,Masculino,23,22 a 25,Trabalhando,0.0,255.0,1,Um dos dois dias,Sim,0.5312,Até 1,Manhã,15.0,58.0,33.5,23:00,09:30,10.5,9.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+188,134748,Masculino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,133.0,0.0,22:00,03:30,5.5,7.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+189,134757,Feminino,27,26 a 29,Trabalhando,0.0,120.0,1,Um dos dois dias,Sim,0.25,Até 1,Manhã,15.0,24.0,24.0,22:00,05:00,7.0,12.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+190,134765,Feminino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,46.0,0.0,21:00,05:00,8.0,9.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+191,134781,Feminino,25,22 a 25,Trabalhando,180.0,0.0,1,Um dos dois dias,Sim,0.375,Até 1,Manhã,13.0,49.0,36.0,23:00,07:00,8.0,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+192,134839,Masculino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,229.5,0.0,11:00,16:00,5.0,7.0,Sim,3,Quase todos os dias,Sim,1,Vários dias,Sim
+193,134935,Feminino,21,18 a 21,Estudando,0.0,480.0,1,Um dos dois dias,Sim,1.0,Até 1,Manhã,11.0,164.5,73.5,22:00,06:00,8.0,8.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+194,134947,Feminino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,13.5,0.0,00:00,04:30,4.5,12.0,Sim,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+195,134987,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,42.5,0.0,00:00,08:00,8.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+196,134989,Masculino,22,22 a 25,Trabalhando,240.0,240.0,2,Os dois dias,Sim,1.0,Até 1,Manhã,10.75,79.5,79.5,23:00,07:00,8.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+197,135020,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.0,0.0,23:00,07:30,8.5,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+198,135025,Masculino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,05:00,5.0,8.0,Sim,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+199,135048,Masculino,22,22 a 25,Trabalhando,0.0,120.0,1,Um dos dois dias,Sim,0.25,Até 1,Manhã,12.0,24.5,24.0,23:00,07:00,8.0,11.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+200,135108,Feminino,23,22 a 25,Procurando trabalho,449.5,0.0,1,Um dos dois dias,Sim,0.9365,Até 1,Manhã,14.5,80.5,63.0,23:00,06:30,7.5,8.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+201,135161,Masculino,19,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,02:00,07:00,5.0,8.0,Sim,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+202,135170,Masculino,25,22 a 25,Trabalhando,240.0,240.0,2,Os dois dias,Sim,1.0,Até 1,Manhã,12.0,157.5,86.0,22:00,06:30,8.5,8.5,Não,1,Vários dias,Sim,3,Quase todos os dias,Sim
+203,135194,Feminino,28,26 a 29,Trabalhando,255.0,120.0,2,Os dois dias,Sim,0.7812,Até 1,Manhã,16.0,77.0,75.0,00:00,08:00,8.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+204,135218,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.5,0.0,20:30,04:15,8.0,14.0,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+205,135369,Masculino,22,22 a 25,Trabalhando,240.0,360.0,2,Os dois dias,Sim,1.25,Mais de 1 a 2,Manhã,14.0,249.5,120.0,20:00,04:10,8.0,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+206,135376,Masculino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,21:00,03:00,6.0,7.0,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+207,135381,Masculino,23,22 a 25,Trabalhando,0.0,580.5,1,Um dos dois dias,Sim,1.2093,Mais de 1 a 2,Manhã,13.25,165.0,92.5,23:00,08:00,9.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+208,135388,Feminino,29,26 a 29,Trabalhando,300.0,496.0,2,Os dois dias,Sim,1.6583,Mais de 1 a 2,Manhã,14.0,146.0,146.0,22:00,05:30,7.5,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+209,135389,Feminino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.0,0.0,22:30,06:30,8.0,8.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+210,135414,Masculino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,74.0,0.0,22:30,06:00,7.5,11.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+211,135419,Masculino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,3.5,0.0,01:00,08:00,7.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+212,135422,Masculino,26,26 a 29,Trabalhando,300.0,0.0,1,Um dos dois dias,Sim,0.625,Até 1,Manhã,15.0,88.0,60.0,02:00,10:00,8.0,9.0,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+213,135439,Masculino,23,22 a 25,Trabalhando,360.0,480.0,2,Os dois dias,Sim,1.75,Mais de 1 a 2,Tarde,15.75,152.5,151.0,04:00,10:00,6.0,8.0,Sim,1,Vários dias,Sim,1,Vários dias,Sim
+214,135485,Feminino,21,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,23.5,0.0,05:00,11:00,6.0,6.0,Sim,3,Quase todos os dias,Sim,3,Quase todos os dias,Sim
+215,135504,Feminino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,08:00,18:00,10.0,12.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+216,135505,Masculino,29,26 a 29,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,37.0,0.0,01:00,09:30,8.5,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+217,135522,Masculino,28,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,118.5,0.0,01:00,10:00,9.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+218,135556,Feminino,18,18 a 21,Estudando,480.0,240.0,2,Os dois dias,Sim,1.5,Mais de 1 a 2,Tarde,13.0,113.0,105.5,01:00,08:00,7.0,8.5,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+219,135560,Masculino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,67.5,0.0,09:30,16:00,6.5,10.0,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+220,135599,Feminino,26,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,62.5,0.0,23:00,07:30,8.5,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+221,135616,Masculino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,92.0,0.0,01:00,09:00,8.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+222,135653,Feminino,27,26 a 29,Trabalhando,960.0,435.0,2,Os dois dias,Sim,2.9062,Mais de 2 a 3,Manhã,12.5,263.0,234.0,22:00,05:00,7.0,8.0,Não,0,Nenhum dia,Não,3,Quase todos os dias,Sim
+223,135724,Masculino,26,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,111.5,0.0,23:00,07:30,8.5,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+224,135728,Masculino,20,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,03:00,06:00,3.0,7.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+225,135733,Feminino,18,18 a 21,Estudando,0.0,720.0,1,Um dos dois dias,Sim,1.5,Mais de 1 a 2,Manhã,11.67,133.0,110.0,23:30,09:00,9.5,8.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+226,135761,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:00,07:00,9.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+227,135885,Masculino,20,18 a 21,Trabalhando,480.0,0.0,1,Um dos dois dias,Sim,1.0,Até 1,Manhã,16.0,83.0,63.0,22:00,07:00,9.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+228,135892,Masculino,20,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.5,0.0,01:00,07:00,6.0,7.0,Sim,3,Quase todos os dias,Sim,0,Nenhum dia,Não
+229,135902,Masculino,27,26 a 29,Trabalhando,300.0,180.0,2,Os dois dias,Sim,1.0,Até 1,Manhã,8.5,74.5,73.5,01:30,11:30,10.0,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+230,135906,Feminino,26,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,23:00,06:00,7.0,12.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+231,135938,Feminino,28,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.5,0.0,00:00,08:30,8.5,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+232,135954,Feminino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,15:00,20:45,6.0,12.0,Sim,1,Vários dias,Sim,1,Vários dias,Sim
+233,135998,Masculino,23,22 a 25,Outra situação,255.0,496.0,2,Os dois dias,Sim,1.5646,Mais de 1 a 2,Tarde,13.0,128.0,128.0,01:00,08:00,7.0,7.0,Não,0,Nenhum dia,Não,3,Quase todos os dias,Sim
+234,136014,Masculino,20,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,177.0,0.0,10:00,18:00,8.0,4.0,Não,1,Vários dias,Sim,3,Quase todos os dias,Sim
+235,136050,Feminino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,6.0,0.0,21:00,05:00,8.0,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+236,136051,Masculino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,06:00,6.0,8.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+237,136054,Feminino,21,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,18.0,0.0,00:30,09:45,9.5,9.5,Não,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+238,136062,Feminino,21,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,6.0,0.0,21:00,09:00,12.0,9.0,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+239,136092,Feminino,27,26 a 29,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,33.0,0.0,23:00,08:00,9.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+240,136116,Feminino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,91.0,0.0,23:00,06:40,7.5,10.0,Não,3,Quase todos os dias,Sim,1,Vários dias,Sim
+241,136146,Masculino,24,22 a 25,Trabalhando,180.0,195.0,2,Os dois dias,Sim,0.7812,Até 1,Tarde,11.0,76.0,75.0,23:00,08:00,9.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+242,136148,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,11.0,0.0,22:00,07:00,9.0,12.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+243,136180,Feminino,22,22 a 25,Procurando trabalho,542.5,0.0,1,Um dos dois dias,Sim,1.1302,Mais de 1 a 2,Tarde,11.0,158.0,94.0,23:00,09:00,10.0,10.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+244,136185,Feminino,21,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,14.5,0.0,23:00,07:30,8.5,5.0,Não,3,Quase todos os dias,Sim,3,Quase todos os dias,Sim
+245,136198,Feminino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,06:10,6.0,12.0,Sim,3,Quase todos os dias,Sim,0,Nenhum dia,Não
+246,136257,Feminino,18,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,18.0,0.0,02:00,08:00,6.0,5.0,Sim,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+247,136287,Masculino,29,26 a 29,Trabalhando,720.0,0.0,1,Um dos dois dias,Sim,1.5,Mais de 1 a 2,Manhã,13.0,141.5,3.5,00:00,06:45,7.0,6.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+248,136409,Feminino,18,18 a 21,Trabalhando,0.0,195.0,1,Um dos dois dias,Sim,0.4062,Até 1,Manhã,16.0,25.5,1.0,00:00,09:00,9.0,12.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+249,136419,Feminino,18,18 a 21,Estudando,345.0,0.0,1,Um dos dois dias,Sim,0.7188,Até 1,Manhã,14.0,72.5,52.5,23:00,07:00,8.0,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+250,136421,Masculino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,89.0,0.0,00:30,08:00,7.5,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+251,136449,Feminino,21,18 a 21,Estudando,315.0,240.0,2,Os dois dias,Sim,1.1562,Mais de 1 a 2,Manhã,11.5,121.0,84.5,00:00,10:00,10.0,10.0,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+252,136461,Feminino,25,22 a 25,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,21:00,06:00,9.0,12.0,Não,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+253,136462,Feminino,21,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,5.5,0.0,23:00,07:30,8.5,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+254,136474,Feminino,19,18 a 21,Trabalhando,0.0,434.0,1,Um dos dois dias,Sim,0.9042,Até 1,Manhã,19.5,152.5,61.0,01:00,07:00,6.0,9.0,Sim,3,Quase todos os dias,Sim,0,Nenhum dia,Não
+255,136502,Masculino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,43.5,0.0,00:00,10:00,10.0,11.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+256,136509,Feminino,28,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.0,0.0,23:00,06:15,7.5,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+257,136522,Feminino,20,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,27.0,0.0,00:30,05:45,5.5,7.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+258,136528,Masculino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,15.5,0.0,22:00,07:00,9.0,10.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+259,136534,Masculino,18,18 a 21,Estudando,150.0,195.0,2,Os dois dias,Sim,0.7188,Até 1,Manhã,16.25,90.0,69.0,23:00,08:00,9.0,8.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+260,136537,Masculino,27,26 a 29,Trabalhando,0.0,1216.0,1,Um dos dois dias,Sim,2.5333,Mais de 2 a 3,Noite,-6.5,716.5,481.0,21:30,05:00,7.5,7.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+261,136540,Feminino,21,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,19:00,03:00,8.0,12.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+262,136552,Feminino,19,18 a 21,Estudando,0.0,496.0,1,Um dos dois dias,Sim,1.0333,Mais de 1 a 2,Tarde,15.0,77.0,77.0,03:00,11:00,8.0,6.0,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+263,136593,Feminino,29,26 a 29,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,28.0,0.0,03:00,10:00,7.0,6.5,Não,3,Quase todos os dias,Sim,1,Vários dias,Sim
+264,136609,Feminino,29,26 a 29,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,03:00,10:00,7.0,7.0,Não,3,Quase todos os dias,Sim,1,Vários dias,Sim
+265,136641,Masculino,18,18 a 21,Outra situação,1235.0,0.0,1,Um dos dois dias,Sim,2.5729,Mais de 2 a 3,Tarde,8.0,252.5,201.5,01:00,10:30,9.5,9.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+266,136658,Masculino,24,22 a 25,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.0,0.0,23:00,09:30,10.5,10.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+267,136670,Feminino,19,18 a 21,Trabalhando,372.0,620.0,2,Os dois dias,Sim,2.0667,Mais de 2 a 3,Manhã,7.0,164.5,162.5,00:00,05:00,5.0,8.0,Sim,3,Quase todos os dias,Sim,0,Nenhum dia,Não
+268,136688,Feminino,27,26 a 29,Estudando,270.0,300.0,2,Os dois dias,Sim,1.1875,Mais de 1 a 2,Manhã,12.5,87.5,87.5,21:15,05:30,8.5,8.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+269,136753,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,26.0,0.0,23:00,09:00,10.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+270,136758,Feminino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:00,06:00,8.0,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+271,136794,Feminino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,14.5,0.0,22:00,06:00,8.0,9.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+272,136850,Masculino,18,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,14.0,0.0,20:00,07:00,11.0,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+273,136852,Feminino,26,26 a 29,Trabalhando,0.0,240.0,1,Um dos dois dias,Sim,0.5,Até 1,Manhã,16.0,43.0,43.0,00:00,07:30,7.5,9.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+274,136866,Masculino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,20.0,0.0,00:00,08:00,8.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+275,136872,Masculino,26,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,74.5,0.0,23:30,06:00,6.5,9.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+276,136882,Feminino,28,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,15:00,23:30,8.5,11.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+277,136887,Masculino,25,22 a 25,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,37.0,0.0,22:00,06:00,8.0,7.5,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+278,136888,Masculino,21,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.5,0.0,00:00,09:00,9.0,9.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+279,136912,Feminino,18,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,8.5,0.0,00:00,03:00,3.0,9.0,Sim,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+280,136918,Feminino,24,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,7.0,0.0,00:00,10:00,10.0,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+281,136923,Masculino,20,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,07:30,7.5,11.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+282,136927,Masculino,19,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,5.0,0.0,00:00,06:30,6.5,12.0,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+283,136950,Masculino,25,22 a 25,Procurando trabalho,0.0,525.0,1,Um dos dois dias,Sim,1.0938,Mais de 1 a 2,Manhã,13.0,196.5,105.0,23:00,08:30,9.5,10.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+284,136969,Feminino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,59.0,0.0,02:00,07:00,5.0,11.0,Sim,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+285,137023,Feminino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:00,06:30,8.5,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+286,137054,Feminino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,5.5,0.0,00:00,05:30,5.5,7.0,Sim,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+287,137066,Feminino,25,22 a 25,Trabalhando,195.0,120.0,2,Os dois dias,Sim,0.6562,Até 1,Manhã,12.5,75.5,60.5,22:30,06:30,8.0,8.5,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+288,137090,Feminino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,23:00,09:00,10.0,11.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+289,137112,Feminino,26,26 a 29,Trabalhando,0.0,600.0,1,Um dos dois dias,Sim,1.25,Mais de 1 a 2,Manhã,15.5,135.5,120.0,22:00,05:00,7.0,7.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+290,137191,Masculino,23,22 a 25,Trabalhando,0.0,360.0,1,Um dos dois dias,Sim,0.75,Até 1,Manhã,13.5,55.0,55.0,22:30,07:00,8.5,11.0,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+291,137198,Feminino,23,22 a 25,Trabalhando,372.0,0.0,1,Um dos dois dias,Sim,0.775,Até 1,Manhã,14.25,52.0,52.0,22:30,07:00,8.5,8.5,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+292,137237,Feminino,19,18 a 21,Trabalhando,255.0,195.0,2,Os dois dias,Sim,0.9375,Até 1,Manhã,13.0,74.0,72.5,01:00,08:00,7.0,9.0,Não,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+293,137305,Feminino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,87.0,0.0,23:30,06:30,7.0,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+294,137316,Feminino,26,26 a 29,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.5,0.0,01:00,08:00,7.0,8.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+295,137345,Masculino,26,26 a 29,Trabalhando,360.0,300.0,2,Os dois dias,Sim,1.375,Mais de 1 a 2,Manhã,14.5,145.5,132.0,22:00,05:30,7.5,10.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+296,137374,Feminino,25,22 a 25,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,6.0,0.0,22:00,06:40,8.5,8.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+297,137410,Feminino,20,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,19.5,0.0,02:00,06:00,4.0,7.0,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+298,137428,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:30,07:30,9.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+299,137473,Masculino,26,26 a 29,Trabalhando,720.0,1200.0,2,Os dois dias,Sim,4.0,Mais de 3,Manhã,17.0,293.5,293.5,23:00,06:00,7.0,8.5,Não,1,Vários dias,Sim,1,Vários dias,Sim
+300,137569,Masculino,20,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,07:00,15:30,8.5,11.5,Não,1,Vários dias,Sim,1,Vários dias,Sim
+301,137580,Feminino,23,22 a 25,Trabalhando,180.0,480.0,2,Os dois dias,Sim,1.375,Mais de 1 a 2,Manhã,14.0,141.0,119.5,00:00,08:00,8.0,10.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+302,137582,Feminino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,104.0,0.0,23:00,07:30,8.5,10.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+303,137615,Feminino,21,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.5,0.0,02:00,10:30,8.5,10.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+304,137653,Feminino,19,18 a 21,Trabalhando,0.0,600.0,1,Um dos dois dias,Sim,1.25,Mais de 1 a 2,Manhã,17.5,94.5,91.5,00:00,10:00,10.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+305,137660,Feminino,27,26 a 29,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,36.5,0.0,22:30,07:00,8.5,8.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+306,137663,Masculino,29,26 a 29,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,10.0,0.0,23:00,09:00,10.0,8.5,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+307,137675,Masculino,27,26 a 29,Trabalhando,360.0,421.2,2,Os dois dias,Sim,1.6275,Mais de 1 a 2,Manhã,15.5,162.5,119.5,00:00,08:00,8.0,9.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+308,137689,Masculino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,78.5,0.0,00:00,08:30,8.5,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+309,137733,Masculino,28,26 a 29,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,16.0,0.0,10:00,18:00,8.0,10.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+310,137740,Feminino,28,26 a 29,Trabalhando,195.0,480.0,2,Os dois dias,Sim,1.4062,Mais de 1 a 2,Manhã,16.75,172.0,126.0,02:00,05:30,3.5,7.5,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+311,137749,Feminino,19,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.0,0.0,01:00,08:30,7.5,8.5,Não,1,Vários dias,Sim,1,Vários dias,Sim
+312,137760,Masculino,20,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,34.5,0.0,,,2.0,9.0,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+313,137784,Masculino,27,26 a 29,Trabalhando,360.0,720.0,2,Os dois dias,Sim,2.25,Mais de 2 a 3,Tarde,10.0,165.0,165.0,23:00,07:00,8.0,8.5,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+314,137824,Feminino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,44.5,0.0,22:00,08:00,10.0,11.5,Não,3,Quase todos os dias,Sim,3,Quase todos os dias,Sim
+315,137848,Feminino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,24.0,0.0,23:00,07:45,9.0,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+316,137849,Masculino,24,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,07:30,7.5,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+317,137869,Feminino,18,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,52.5,0.0,22:00,06:30,8.5,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+318,138012,Feminino,26,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,15.0,0.0,00:00,05:30,5.5,5.5,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+319,138032,Feminino,21,18 a 21,Estudando,255.0,150.0,2,Os dois dias,Sim,0.8438,Até 1,Manhã,14.0,67.5,66.5,00:00,09:30,9.5,9.0,Não,2,Mais da metade dos dias,Sim,3,Quase todos os dias,Sim
+320,138040,Feminino,21,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,18.0,0.0,01:00,09:00,8.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+321,138063,Feminino,24,22 a 25,Outra situação,480.0,0.0,1,Um dos dois dias,Sim,1.0,Até 1,Manhã,16.5,120.5,73.5,03:00,09:30,6.5,10.0,Sim,3,Quase todos os dias,Sim,3,Quase todos os dias,Sim
+322,138131,Feminino,26,26 a 29,Trabalhando,195.0,195.0,2,Os dois dias,Sim,0.8125,Até 1,Manhã,14.5,2.0,2.0,21:00,05:00,8.0,8.0,Não,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+323,138266,Masculino,18,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,9.0,0.0,00:00,07:00,7.0,8.0,Não,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+324,138278,Masculino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,07:00,7.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+325,138286,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,26.0,0.0,00:00,05:50,6.0,8.0,Sim,2,Mais da metade dos dias,Sim,3,Quase todos os dias,Sim
+326,138290,Masculino,23,22 a 25,Estudando,255.0,360.0,2,Os dois dias,Sim,1.2812,Mais de 1 a 2,Manhã,14.0,151.0,123.0,00:00,09:00,9.0,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+327,138315,Masculino,26,26 a 29,Trabalhando,120.0,120.0,2,Os dois dias,Sim,0.5,Até 1,Manhã,13.5,293.0,254.0,00:00,08:00,8.0,7.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+328,138350,Feminino,27,26 a 29,Trabalhando,270.0,705.0,2,Os dois dias,Sim,2.0312,Mais de 2 a 3,Manhã,12.5,197.0,195.0,22:00,06:00,8.0,10.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+329,138359,Feminino,20,18 a 21,Trabalhando,600.0,680.0,2,Os dois dias,Sim,2.6666,Mais de 2 a 3,Tarde,6.75,230.0,227.5,00:30,09:00,8.5,11.5,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+330,138364,Feminino,26,26 a 29,Estudando,375.0,660.0,2,Os dois dias,Sim,2.1562,Mais de 2 a 3,Manhã,11.25,209.5,207.0,22:00,06:30,8.5,9.0,Não,0,Nenhum dia,Não,2,Mais da metade dos dias,Sim
+331,138379,Masculino,27,26 a 29,Trabalhando,600.0,0.0,1,Um dos dois dias,Sim,1.25,Mais de 1 a 2,Manhã,12.5,122.0,91.5,22:00,05:45,8.0,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+332,138397,Masculino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,53.5,0.0,00:00,10:00,10.0,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+333,138400,Feminino,29,26 a 29,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,23:00,07:00,8.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+334,138440,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,16.0,0.0,22:00,08:00,10.0,11.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+335,138466,Masculino,22,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.5,0.0,22:00,07:00,9.0,7.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+336,138498,Feminino,26,26 a 29,Trabalhando,330.0,120.0,2,Os dois dias,Sim,0.9375,Até 1,Manhã,7.5,478.0,477.0,22:30,06:45,8.5,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+337,138527,Feminino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,3.5,0.0,21:00,06:00,9.0,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+338,138576,Feminino,20,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,114.0,0.0,09:00,16:00,7.0,7.0,Não,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+339,138610,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,58.5,0.0,23:00,07:30,8.5,9.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+340,138625,Feminino,29,26 a 29,Trabalhando,255.0,360.0,2,Os dois dias,Sim,1.2812,Mais de 1 a 2,Tarde,10.0,108.0,106.0,22:00,06:30,8.5,8.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+341,138627,Feminino,21,18 a 21,Outra situação,360.0,542.5,2,Os dois dias,Sim,1.8802,Mais de 1 a 2,Noite,4.5,190.5,148.0,22:30,08:00,9.5,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+342,138629,Masculino,19,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:00,07:00,9.0,11.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+343,138679,Masculino,26,26 a 29,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,29.0,0.0,03:00,09:00,6.0,11.0,Sim,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+344,138723,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,25.5,0.0,02:00,06:00,4.0,9.0,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+345,138725,Feminino,28,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.0,0.0,21:30,06:00,8.5,9.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+346,138730,Feminino,24,22 a 25,Trabalhando,390.0,360.0,2,Os dois dias,Sim,1.5625,Mais de 1 a 2,Manhã,9.0,158.0,150.0,01:00,07:30,6.5,10.0,Sim,1,Vários dias,Sim,1,Vários dias,Sim
+347,138781,Masculino,19,18 a 21,Trabalhando,0.0,542.5,1,Um dos dois dias,Sim,1.1302,Mais de 1 a 2,Tarde,13.0,115.0,97.0,01:00,08:00,7.0,7.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+348,138811,Masculino,21,18 a 21,Trabalhando,0.0,449.5,1,Um dos dois dias,Sim,0.9365,Até 1,Manhã,12.5,63.0,63.0,23:00,09:00,10.0,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+349,138828,Feminino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,41.0,0.0,21:00,06:30,9.5,10.5,Não,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+350,138859,Feminino,28,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,35.0,0.0,23:30,07:00,7.5,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+351,138863,Feminino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,57.5,0.0,01:00,09:00,8.0,8.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+352,138865,Feminino,25,22 a 25,Trabalhando,600.0,0.0,1,Um dos dois dias,Sim,1.25,Mais de 1 a 2,Manhã,16.0,152.0,91.5,23:00,06:40,7.5,10.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+353,138868,Masculino,26,26 a 29,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,23:00,08:00,9.0,6.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+354,138878,Feminino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,01:30,10:00,8.5,11.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+355,138882,Feminino,28,26 a 29,Trabalhando,480.0,840.0,2,Os dois dias,Sim,2.75,Mais de 2 a 3,Manhã,7.5,361.0,353.0,22:00,06:00,8.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+356,138916,Feminino,28,26 a 29,Trabalhando,765.0,705.0,2,Os dois dias,Sim,3.0625,Mais de 3,Manhã,14.0,294.0,294.0,21:30,05:30,8.0,8.5,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+357,138940,Masculino,22,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.0,0.0,05:00,10:00,5.0,5.0,Sim,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+358,138964,Feminino,22,22 a 25,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,182.5,0.0,03:00,09:00,6.0,6.0,Sim,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+359,138973,Feminino,29,26 a 29,Trabalhando,300.0,480.0,2,Os dois dias,Sim,1.625,Mais de 1 a 2,Manhã,13.5,213.5,133.5,21:30,06:00,8.5,7.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+360,138996,Feminino,26,26 a 29,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,39.5,0.0,20:00,06:30,10.5,13.0,Não,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+361,139003,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,39.5,0.0,23:30,07:00,7.5,8.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+362,139013,Feminino,22,22 a 25,Trabalhando,180.0,0.0,1,Um dos dois dias,Sim,0.375,Até 1,Manhã,16.5,48.5,36.0,00:00,08:00,8.0,8.0,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+363,139014,Masculino,19,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,25.0,0.0,22:00,07:30,9.5,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+364,139018,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,02:00,09:00,7.0,8.0,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+365,139049,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.5,0.0,23:00,07:00,8.0,9.5,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+366,139119,Masculino,28,26 a 29,Trabalhando,270.0,240.0,2,Os dois dias,Sim,1.0625,Mais de 1 a 2,Manhã,15.5,564.5,540.5,22:30,05:45,7.5,8.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+367,139121,Masculino,24,22 a 25,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,31.0,0.0,01:00,07:00,6.0,12.0,Sim,3,Quase todos os dias,Sim,0,Nenhum dia,Não
+368,139132,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,37.5,0.0,00:00,09:30,9.5,9.0,Não,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+369,139157,Feminino,22,22 a 25,Trabalhando,0.0,240.0,1,Um dos dois dias,Sim,0.5,Até 1,Manhã,16.5,48.0,48.0,00:00,09:00,9.0,10.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+370,139181,Masculino,27,26 a 29,Trabalhando,720.0,480.0,2,Os dois dias,Sim,2.5,Mais de 2 a 3,Manhã,18.0,247.0,240.0,22:00,05:30,7.5,7.0,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+371,139216,Feminino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,9.0,0.0,00:00,07:45,8.0,5.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+372,139287,Feminino,29,26 a 29,Trabalhando,1080.0,300.0,2,Os dois dias,Sim,2.875,Mais de 2 a 3,Manhã,13.5,282.0,255.5,21:30,04:45,7.5,8.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+373,139317,Masculino,24,22 a 25,Trabalhando,360.0,180.0,2,Os dois dias,Sim,1.125,Mais de 1 a 2,Manhã,9.0,106.0,99.5,22:30,06:30,8.0,8.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+374,139319,Masculino,18,18 a 21,Estudando,255.0,0.0,1,Um dos dois dias,Sim,0.5312,Até 1,Manhã,15.0,83.0,51.0,23:30,08:00,8.5,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+375,139321,Feminino,27,26 a 29,Trabalhando,744.0,0.0,1,Um dos dois dias,Sim,1.55,Mais de 1 a 2,Manhã,14.0,134.5,129.0,00:00,08:00,8.0,8.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+376,139352,Masculino,21,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,111.0,0.0,21:20,04:00,6.5,9.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+377,139387,Masculino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,21:00,06:00,9.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+378,139420,Masculino,28,26 a 29,Outra situação,0.0,750.0,1,Um dos dois dias,Sim,1.5625,Mais de 1 a 2,Manhã,7.0,250.5,150.0,21:00,05:00,8.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+379,139458,Masculino,20,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:00,06:00,8.0,9.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+380,139509,Masculino,20,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,30.0,0.0,01:00,09:00,8.0,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+381,139526,Feminino,19,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,54.5,0.0,00:00,09:00,9.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+382,139536,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,16.0,0.0,22:30,08:00,9.5,9.0,Não,0,Nenhum dia,Não,2,Mais da metade dos dias,Sim
+383,139560,Masculino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,38.5,0.0,23:30,07:00,7.5,5.0,Não,1,Vários dias,Sim,3,Quase todos os dias,Sim
+384,139561,Masculino,28,26 a 29,Trabalhando,195.0,150.0,2,Os dois dias,Sim,0.7188,Até 1,Manhã,15.0,99.5,62.0,01:00,09:00,8.0,8.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+385,139570,Feminino,27,26 a 29,Outra situação,0.0,201.5,1,Um dos dois dias,Sim,0.4198,Até 1,Manhã,12.0,47.5,25.5,23:00,08:00,9.0,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+386,139586,Masculino,18,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,56.5,0.0,01:00,10:00,9.0,9.0,Não,2,Mais da metade dos dias,Sim,3,Quase todos os dias,Sim
+387,139587,Masculino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.0,0.0,00:00,08:00,8.0,7.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+388,139601,Masculino,22,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:00,06:00,8.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+389,139641,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,162.5,0.0,23:00,09:30,10.5,11.0,Não,3,Quase todos os dias,Sim,0,Nenhum dia,Não
+390,139645,Feminino,18,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:00,08:00,10.0,10.0,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+391,139648,Feminino,19,18 a 21,Estudando,510.0,0.0,1,Um dos dois dias,Sim,1.0625,Mais de 1 a 2,Manhã,15.5,105.5,102.0,02:00,09:00,7.0,8.5,Não,1,Vários dias,Sim,1,Vários dias,Sim
+392,139697,Masculino,19,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,09:00,9.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+393,139707,Feminino,28,26 a 29,Trabalhando,300.0,300.0,2,Os dois dias,Sim,1.25,Mais de 1 a 2,Manhã,13.0,167.0,120.0,22:30,05:00,6.5,9.5,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+394,139760,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,5.5,0.0,22:00,07:00,9.0,8.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+395,139786,Feminino,22,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,43.0,0.0,00:00,08:15,8.5,8.5,Não,1,Vários dias,Sim,1,Vários dias,Sim
+396,139795,Masculino,21,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,77.5,0.0,03:00,12:00,9.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+397,139865,Masculino,21,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.5,0.0,01:00,10:00,9.0,8.5,Não,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+398,139967,Masculino,21,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,91.0,0.0,23:00,06:15,7.5,10.0,Não,2,Mais da metade dos dias,Sim,3,Quase todos os dias,Sim
+399,139969,Feminino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,12.5,0.0,23:00,07:30,8.5,10.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+400,139987,Masculino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,22.5,0.0,02:00,07:00,5.0,9.0,Sim,0,Nenhum dia,Não,1,Vários dias,Sim
+401,139997,Masculino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,3.5,0.0,00:00,08:30,8.5,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+402,140016,Masculino,22,22 a 25,Procurando trabalho,510.0,255.0,2,Os dois dias,Sim,1.5938,Mais de 1 a 2,Manhã,13.5,173.0,153.0,00:00,09:30,9.5,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+403,140025,Masculino,21,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,16.5,0.0,00:00,10:00,10.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+404,140038,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,32.5,0.0,22:00,07:00,9.0,8.5,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+405,140045,Feminino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,11.0,0.0,00:00,08:00,8.0,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+406,140057,Feminino,27,26 a 29,Trabalhando,540.0,0.0,1,Um dos dois dias,Sim,1.125,Mais de 1 a 2,Tarde,8.0,82.5,82.5,01:00,07:00,6.0,7.0,Sim,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+407,140094,Feminino,29,26 a 29,Trabalhando,360.0,360.0,2,Os dois dias,Sim,1.5,Mais de 1 a 2,Manhã,14.0,151.0,144.0,00:00,07:00,7.0,8.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+408,140101,Masculino,24,22 a 25,Trabalhando,360.0,0.0,1,Um dos dois dias,Sim,0.75,Até 1,Manhã,13.0,72.0,72.0,00:00,08:00,8.0,8.5,Não,3,Quase todos os dias,Sim,3,Quase todos os dias,Sim
+409,140111,Feminino,25,22 a 25,Trabalhando,180.0,480.0,2,Os dois dias,Sim,1.375,Mais de 1 a 2,Tarde,9.5,283.0,264.5,22:00,05:30,7.5,10.0,Não,3,Quase todos os dias,Sim,0,Nenhum dia,Não
+410,140112,Feminino,22,22 a 25,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.5,0.0,23:00,08:00,9.0,6.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+411,140117,Feminino,26,26 a 29,Trabalhando,600.0,0.0,1,Um dos dois dias,Sim,1.25,Mais de 1 a 2,Manhã,15.5,99.5,91.5,22:00,05:30,7.5,8.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+412,140121,Feminino,24,22 a 25,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,31.0,0.0,01:00,06:00,5.0,8.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+413,140155,Feminino,21,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,41.0,0.0,01:00,09:00,8.0,10.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+414,140175,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.5,0.0,23:00,09:00,10.0,11.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+415,140182,Feminino,24,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.0,0.0,23:00,07:00,8.0,11.0,Não,2,Mais da metade dos dias,Sim,2,Mais da metade dos dias,Sim
+416,140238,Masculino,18,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,150.0,0.0,10:00,17:00,7.0,8.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+417,140243,Feminino,27,26 a 29,Trabalhando,75.0,0.0,1,Um dos dois dias,Sim,0.1562,Até 1,Manhã,16.0,23.5,15.0,22:00,08:00,10.0,10.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+418,140248,Masculino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,54.5,0.0,22:30,06:30,8.0,8.0,Não,2,Mais da metade dos dias,Sim,3,Quase todos os dias,Sim
+419,140262,Feminino,23,22 a 25,Procurando trabalho,480.0,360.0,2,Os dois dias,Sim,1.75,Mais de 1 a 2,Manhã,5.0,168.0,168.0,23:30,07:30,8.0,8.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+420,140299,Feminino,25,22 a 25,Trabalhando,0.0,420.0,1,Um dos dois dias,Sim,0.875,Até 1,Manhã,12.0,173.0,64.0,23:00,10:00,11.0,10.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+421,140311,Feminino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:00,04:30,6.5,9.0,Sim,0,Nenhum dia,Não,1,Vários dias,Sim
+422,140322,Feminino,29,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,23:00,08:00,9.0,11.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+423,140352,Feminino,20,18 a 21,Procurando trabalho,0.0,255.0,1,Um dos dois dias,Sim,0.5312,Até 1,Tarde,11.5,41.0,39.0,01:00,12:00,11.0,11.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+424,140360,Masculino,22,22 a 25,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,26.0,0.0,01:00,08:00,7.0,9.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+425,140364,Masculino,24,22 a 25,Trabalhando,270.0,240.0,2,Os dois dias,Sim,1.0625,Mais de 1 a 2,Manhã,14.5,92.0,61.5,01:00,08:50,8.0,8.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+426,140420,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,11.0,0.0,23:00,06:00,7.0,7.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+427,140428,Feminino,28,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,106.5,0.0,21:30,05:00,7.5,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+428,140436,Masculino,26,26 a 29,Trabalhando,240.0,0.0,1,Um dos dois dias,Sim,0.5,Até 1,Manhã,13.0,124.0,48.0,00:00,07:00,7.0,7.0,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+429,140508,Masculino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,02:00,08:30,6.5,8.0,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+430,140521,Feminino,23,22 a 25,Trabalhando,0.0,90.0,1,Um dos dois dias,Sim,0.1875,Até 1,Manhã,11.5,197.0,16.5,21:00,08:00,11.0,6.5,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+431,140525,Feminino,23,22 a 25,Trabalhando,300.0,360.0,2,Os dois dias,Sim,1.375,Mais de 1 a 2,Manhã,8.5,115.5,101.0,23:00,07:30,8.5,9.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+432,140586,Masculino,27,26 a 29,Trabalhando,1140.0,1380.0,2,Os dois dias,Sim,5.25,Mais de 3,Tarde,6.5,509.5,486.0,02:30,10:00,7.5,7.5,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+433,140595,Feminino,29,26 a 29,Trabalhando,480.0,480.0,2,Os dois dias,Sim,2.0,Mais de 1 a 2,Noite,-7.75,151.0,147.0,21:00,04:30,7.5,9.5,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+434,140625,Masculino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,33.5,0.0,01:00,09:00,8.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+435,140644,Feminino,21,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,116.0,0.0,01:00,10:00,9.0,9.5,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+436,140648,Masculino,22,22 a 25,Trabalhando,432.0,120.0,2,Os dois dias,Sim,1.15,Mais de 1 a 2,Manhã,9.0,289.0,230.0,23:00,07:30,8.5,10.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+437,140663,Feminino,19,18 a 21,Trabalhando,62.0,0.0,1,Um dos dois dias,Sim,0.1292,Até 1,Manhã,16.0,132.0,42.0,01:00,07:00,6.0,9.0,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+438,140672,Feminino,29,26 a 29,Trabalhando,615.0,615.0,2,Os dois dias,Sim,2.5625,Mais de 2 a 3,Manhã,13.5,232.0,204.0,00:30,08:00,7.5,8.5,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+439,140698,Feminino,21,18 a 21,Trabalhando,496.0,345.0,2,Os dois dias,Sim,1.7521,Mais de 1 a 2,Tarde,6.0,154.5,154.5,23:00,08:00,9.0,9.0,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+440,140797,Feminino,20,18 a 21,Outra situação,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,09:00,9.0,7.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+441,140808,Feminino,27,26 a 29,Trabalhando,180.0,645.0,2,Os dois dias,Sim,1.7188,Mais de 1 a 2,Manhã,12.0,178.0,129.0,02:00,08:00,6.0,8.5,Sim,3,Quase todos os dias,Sim,1,Vários dias,Sim
+442,140851,Masculino,26,26 a 29,Trabalhando,360.0,525.0,2,Os dois dias,Sim,1.8438,Mais de 1 a 2,Manhã,12.0,177.5,177.0,22:00,06:30,8.5,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+443,140853,Feminino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,3.5,0.0,20:30,06:10,9.5,7.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+444,140855,Feminino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,93.0,0.0,07:00,13:00,6.0,6.0,Sim,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+445,140930,Masculino,26,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:30,06:00,7.5,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+446,140941,Masculino,18,18 a 21,Trabalhando,0.0,240.0,1,Um dos dois dias,Sim,0.5,Até 1,Manhã,14.5,52.0,48.0,00:00,05:00,5.0,7.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+447,140950,Feminino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,39.0,0.0,22:30,06:20,8.0,9.5,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+448,140956,Masculino,28,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,68.0,0.0,21:00,05:15,8.5,9.0,Não,0,Nenhum dia,Não,3,Quase todos os dias,Sim
+449,141025,Feminino,19,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,146.0,0.0,02:00,07:00,5.0,9.0,Sim,3,Quase todos os dias,Sim,2,Mais da metade dos dias,Sim
+450,141030,Feminino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.5,0.0,21:30,06:30,9.0,10.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+451,141037,Feminino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,2.0,0.0,00:00,07:00,7.0,13.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+452,141040,Masculino,28,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,06:00,6.0,8.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+453,141072,Feminino,19,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,23:00,07:00,8.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+454,141093,Masculino,22,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.0,0.0,23:00,11:00,12.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+455,141131,Masculino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,28.0,0.0,00:00,07:00,7.0,10.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+456,141163,Masculino,20,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:30,06:30,8.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+457,141172,Feminino,29,26 a 29,Trabalhando,240.0,441.5,2,Os dois dias,Sim,1.4198,Mais de 1 a 2,Tarde,10.0,210.5,210.0,01:00,06:30,5.5,6.0,Sim,1,Vários dias,Sim,1,Vários dias,Sim
+458,141221,Feminino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,23:30,08:30,9.0,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+459,141223,Feminino,18,18 a 21,Estudando,0.0,186.0,1,Um dos dois dias,Sim,0.3875,Até 1,Manhã,14.0,34.0,33.0,22:30,07:00,8.5,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+460,141246,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,78.5,0.0,23:00,07:00,8.0,7.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+461,141272,Masculino,18,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.0,0.0,23:30,08:30,9.0,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+462,141274,Feminino,28,26 a 29,Trabalhando,360.0,294.5,2,Os dois dias,Sim,1.3635,Mais de 1 a 2,Manhã,13.25,144.5,113.0,22:00,07:00,9.0,10.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+463,141293,Masculino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,27.5,0.0,23:00,09:00,10.0,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+464,141383,Masculino,20,18 a 21,Trabalhando,435.0,0.0,1,Um dos dois dias,Sim,0.9062,Até 1,Manhã,11.5,95.0,87.0,21:00,06:30,9.5,9.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+465,141385,Feminino,23,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,13.0,0.0,01:00,10:00,9.0,11.0,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+466,141397,Masculino,18,18 a 21,Procurando trabalho,525.0,0.0,1,Um dos dois dias,Sim,1.0938,Mais de 1 a 2,Manhã,14.5,69.0,69.0,21:30,07:15,10.0,11.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+467,141521,Feminino,26,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,28.5,0.0,22:00,07:30,9.5,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+468,141535,Masculino,18,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,,,14.0,14.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+469,141575,Masculino,26,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,5.5,0.0,22:00,06:00,8.0,8.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+470,141583,Feminino,19,18 a 21,Trabalhando,325.5,0.0,1,Um dos dois dias,Sim,0.6781,Até 1,Manhã,14.0,76.5,56.0,00:00,07:00,7.0,8.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+471,141617,Masculino,27,26 a 29,Trabalhando,420.0,255.0,2,Os dois dias,Sim,1.4062,Mais de 1 a 2,Manhã,16.0,135.0,135.0,01:00,09:00,8.0,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+472,141703,Masculino,27,26 a 29,Trabalhando,480.0,600.0,2,Os dois dias,Sim,2.25,Mais de 2 a 3,Manhã,12.5,230.5,193.5,22:30,07:30,9.0,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+473,141722,Feminino,19,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,01:00,10:00,9.0,9.0,Não,2,Mais da metade dos dias,Sim,0,Nenhum dia,Não
+474,141741,Feminino,19,18 a 21,Outra situação,720.0,0.0,1,Um dos dois dias,Sim,1.5,Mais de 1 a 2,Manhã,3.0,136.5,110.0,00:00,11:00,11.0,9.0,Não,0,Nenhum dia,Não,3,Quase todos os dias,Sim
+475,141742,Feminino,26,26 a 29,Trabalhando,180.0,75.0,2,Os dois dias,Sim,0.5312,Até 1,Tarde,11.5,53.0,51.0,08:30,15:00,6.5,12.0,Sim,1,Vários dias,Sim,0,Nenhum dia,Não
+476,141777,Masculino,29,26 a 29,Trabalhando,300.0,180.0,2,Os dois dias,Sim,1.0,Até 1,Tarde,11.0,97.5,96.0,00:00,07:00,7.0,10.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+477,141801,Masculino,19,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,22:00,07:00,9.0,10.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+478,141825,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,23:00,07:10,8.0,10.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+479,141851,Masculino,24,22 a 25,Trabalhando,60.0,345.0,2,Os dois dias,Sim,0.8438,Até 1,Manhã,11.0,73.5,64.5,23:00,06:00,7.0,8.5,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
+480,141871,Masculino,24,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.0,0.0,01:00,08:00,7.0,8.0,Não,3,Quase todos os dias,Sim,3,Quase todos os dias,Sim
+481,141896,Masculino,25,22 a 25,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,00:00,07:30,7.5,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+482,141902,Masculino,19,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,36.5,0.0,01:00,09:00,8.0,7.5,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+483,141916,Feminino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,1.0,0.0,00:30,07:00,6.5,7.5,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+484,141928,Feminino,18,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,6.5,0.0,04:00,15:00,11.0,9.0,Não,3,Quase todos os dias,Sim,1,Vários dias,Sim
+485,141961,Feminino,28,26 a 29,Trabalhando,465.0,0.0,1,Um dos dois dias,Sim,0.9688,Até 1,Manhã,14.0,231.5,65.0,23:00,06:30,7.5,9.5,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+486,141980,Masculino,18,18 a 21,Estudando,225.0,840.0,2,Os dois dias,Sim,2.2188,Mais de 2 a 3,Manhã,0.5,219.0,213.0,22:30,06:00,7.5,8.0,Não,0,Nenhum dia,Não,1,Vários dias,Sim
+487,142013,Feminino,19,18 a 21,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,4.5,0.0,00:00,08:00,8.0,9.0,Não,1,Vários dias,Sim,1,Vários dias,Sim
+488,142030,Feminino,24,22 a 25,Trabalhando,360.0,180.0,2,Os dois dias,Sim,1.125,Mais de 1 a 2,Manhã,12.0,110.0,108.0,22:30,05:00,6.5,9.5,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+489,142042,Feminino,19,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,0.0,0.0,01:00,09:00,8.0,9.0,Não,3,Quase todos os dias,Sim,0,Nenhum dia,Não
+490,142048,Masculino,21,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,96.5,0.0,23:30,07:00,7.5,8.5,Não,1,Vários dias,Sim,2,Mais da metade dos dias,Sim
+491,142056,Masculino,27,26 a 29,Trabalhando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,360.0,0.0,00:30,09:30,9.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+492,142080,Masculino,18,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,72.0,0.0,23:00,07:00,8.0,8.0,Não,3,Quase todos os dias,Sim,3,Quase todos os dias,Sim
+493,142117,Feminino,29,26 a 29,Procurando trabalho,510.0,720.0,2,Os dois dias,Sim,2.5625,Mais de 2 a 3,Manhã,14.0,259.0,246.0,00:00,08:00,8.0,9.0,Não,1,Vários dias,Sim,0,Nenhum dia,Não
+494,142120,Masculino,21,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,57.5,0.0,00:00,10:30,10.5,10.0,Não,2,Mais da metade dos dias,Sim,1,Vários dias,Sim
+495,142189,Masculino,18,18 a 21,Procurando trabalho,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,58.0,0.0,00:00,05:30,5.5,6.0,Sim,0,Nenhum dia,Não,0,Nenhum dia,Não
+496,142273,Masculino,18,18 a 21,Estudando,0.0,0.0,0,Nenhum dos dois dias,Não,0.0,0,Não consumiu,,100.0,0.0,22:00,05:00,7.0,11.0,Não,0,Nenhum dia,Não,0,Nenhum dia,Não
