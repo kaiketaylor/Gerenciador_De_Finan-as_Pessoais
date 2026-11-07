@@ -1,0 +1,6 @@
+raw/
+*.pdf
+__pycache__/
+out/Base_Real_Cafe_NHANES_496.xlsx
+out/Trabalho_Cafe_Dados_Reais_NHANES.docx
+out/apresentacao-cafe.html
